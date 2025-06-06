@@ -4,7 +4,7 @@
 
 
 
-ТВ 1482 канала https://raw.githubusercontent.com/Kravix404/IPTV404/refs/heads/main/IPTV404.m3u
+ТВ 1511 канала https://raw.githubusercontent.com/Kravix404/IPTV404/refs/heads/main/IPTV404.m3u
 
 
 ТВ 168 каналов https://raw.githubusercontent.com/Kravix404/IPTV404/refs/heads/main/iptv404168.m3u
