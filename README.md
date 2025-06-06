@@ -8,4 +8,4 @@
 
 ТВ 537 каналов https://raw.githubusercontent.com/Kravix404/IPTV404/refs/heads/main/IPTV404537.m3u
 
-https://raw.githubusercontent.com/Kravix404/IPTV404/refs/heads/main/IPTVTORENT.m3u
+291 канал ТВ https://raw.githubusercontent.com/Kravix404/IPTV404/refs/heads/main/IPTVTORENT.m3u
