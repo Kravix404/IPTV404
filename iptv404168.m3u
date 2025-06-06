@@ -1,0 +1,337 @@
+#EXTM3U url-tvg="http://pskovline.tv/epg/jtv.zip"
+#EXTINF:1,Первый канал
+http://tvhls.pskovline.tv:8080/tv1/index.m3u8
+#EXTINF:2,Россия 1
+http://tvhls.pskovline.tv:8080/tv2/index.m3u8
+#EXTINF:3,НТВ
+http://tvhls.pskovline.tv:8080/tv6/index.m3u8
+#EXTINF:4,Пятый канал
+http://tvhls.pskovline.tv:8080/tv79/index.m3u8
+#EXTINF:5,Россия 24
+http://tvhls.pskovline.tv:8080/tv5/index.m3u8
+#EXTINF:6,ОТР
+http://tvhls.pskovline.tv:8080/tv153/index.m3u8
+#EXTINF:7,ТВ Центр
+http://tvhls.pskovline.tv:8080/tv82/index.m3u8
+#EXTINF:8,Мир
+http://tvhls.pskovline.tv:8080/tv10/index.m3u8
+#EXTINF:9,Первый Псковский
+http://tvhls.pskovline.tv:8080/tv39/index.m3u8
+#EXTINF:10,Известия
+http://tvhls.pskovline.tv:8080/tv64/index.m3u8
+#EXTINF:11,8 канал
+http://tvhls.pskovline.tv:8080/tv68/index.m3u8
+#EXTINF:12,Russia Today
+http://tvhls.pskovline.tv:8080/tv12/index.m3u8
+#EXTINF:13,Открытый мир
+http://tvhls.pskovline.tv:8080/tv124/index.m3u8
+#EXTINF:14,МИР24
+http://tvhls.pskovline.tv:8080/tv143/index.m3u8
+#EXTINF:15,Russia Today DOC HD
+http://tvhls.pskovline.tv:8080/tv144/index.m3u8
+#EXTINF:16,Беларусь 24
+http://tvhls.pskovline.tv:8080/tv172/index.m3u8
+#EXTINF:17,Время
+http://tvhls.pskovline.tv:8080/tv195/index.m3u8
+#EXTINF:18,Точка.РФ
+http://tvhls.pskovline.tv:8080/tv227/index.m3u8
+#EXTINF:19,ЛДПР ТВ
+http://tvhls.pskovline.tv:8080/tv233/index.m3u8
+#EXTINF:20,Рен ТВ
+http://tvhls.pskovline.tv:8080/tv8/index.m3u8
+#EXTINF:21,СТС
+http://tvhls.pskovline.tv:8080/tv13/index.m3u8
+#EXTINF:22,Домашний
+http://tvhls.pskovline.tv:8080/tv93/index.m3u8
+#EXTINF:23,Пятница
+http://tvhls.pskovline.tv:8080/tv28/index.m3u8
+#EXTINF:24,Звезда
+http://tvhls.pskovline.tv:8080/tv7/index.m3u8
+#EXTINF:25,ТНТ
+http://tvhls.pskovline.tv:8080/tv14/index.m3u8
+#EXTINF:26,ТНТ4
+http://tvhls.pskovline.tv:8080/tv18/index.m3u8
+#EXTINF:27,2x2
+http://tvhls.pskovline.tv:8080/tv19/index.m3u8
+#EXTINF:28,Рыболов
+http://tvhls.pskovline.tv:8080/tv15/index.m3u8
+#EXTINF:29,Че
+http://tvhls.pskovline.tv:8080/tv9/index.m3u8
+#EXTINF:30,Ретро ТВ
+http://tvhls.pskovline.tv:8080/tv43/index.m3u8
+#EXTINF:31,365 дней
+http://tvhls.pskovline.tv:8080/tv45/index.m3u8
+#EXTINF:32,Комедия
+http://tvhls.pskovline.tv:8080/tv48/index.m3u8
+#EXTINF:33,Драйв ТВ
+http://tvhls.pskovline.tv:8080/tv49/index.m3u8
+#EXTINF:34,Охота и рыбалка
+http://tvhls.pskovline.tv:8080/tv50/index.m3u8
+#EXTINF:35,viju Explore
+http://tvhls.pskovline.tv:8080/tv60/index.m3u8
+#EXTINF:36,Кухня ТВ
+http://tvhls.pskovline.tv:8080/tv69/index.m3u8
+#EXTINF:37,Авто Плюс
+http://tvhls.pskovline.tv:8080/tv71/index.m3u8
+#EXTINF:38,Сарафан ТВ
+http://tvhls.pskovline.tv:8080/tv75/index.m3u8
+#EXTINF:39,СТС Love
+http://tvhls.pskovline.tv:8080/tv175/index.m3u8
+#EXTINF:40,Авто24
+http://tvhls.pskovline.tv:8080/tv83/index.m3u8
+#EXTINF:41,Ю ТВ
+http://tvhls.pskovline.tv:8080/tv92/index.m3u8
+#EXTINF:42,Теледом
+http://tvhls.pskovline.tv:8080/tv98/index.m3u8
+#EXTINF:43,Дикий
+http://tvhls.pskovline.tv:8080/tv100/index.m3u8
+#EXTINF:44,Поехали!
+http://tvhls.pskovline.tv:8080/tv180/index.m3u8
+#EXTINF:45,Лапки LIVE
+http://tvhls.pskovline.tv:8080/tv102/index.m3u8
+#EXTINF:46,Тонус
+http://tvhls.pskovline.tv:8080/tv114/index.m3u8
+#EXTINF:47,Ювелирочка
+http://tvhls.pskovline.tv:8080/tv201/index.m3u8
+#EXTINF:48,Большая Азия
+http://tvhls.pskovline.tv:8080/tv118/index.m3u8
+#EXTINF:49,78 HD
+http://tvhls.pskovline.tv:8080/tv122/index.m3u8
+#EXTINF:50,Загородный
+http://tvhls.pskovline.tv:8080/tv135/index.m3u8
+#EXTINF:51,Womens Magazine
+http://tvhls.pskovline.tv:8080/tv126/index.m3u8
+#EXTINF:52,СТС HD
+http://tvhls.pskovline.tv:8080/tv136/index.m3u8
+#EXTINF:53,Домашний HD
+http://tvhls.pskovline.tv:8080/tv132/index.m3u8
+#EXTINF:54,Жара
+http://tvhls.pskovline.tv:8080/tv29/index.m3u8
+#EXTINF:55,Оружие
+http://tvhls.pskovline.tv:8080/tv147/index.m3u8
+#EXTINF:56,БелРос
+http://tvhls.pskovline.tv:8080/tv40/index.m3u8
+#EXTINF:57,Телекафе
+http://tvhls.pskovline.tv:8080/tv196/index.m3u8
+#EXTINF:58,Бобёр
+http://tvhls.pskovline.tv:8080/tv224/index.m3u8
+#EXTINF:59,Точка ТВ
+http://tvhls.pskovline.tv:8080/tv228/index.m3u8
+#EXTINF:60,Телеканал Е
+http://tvhls.pskovline.tv:8080/tv232/index.m3u8
+#EXTINF:61,FAN
+http://tvhls.pskovline.tv:8080/tv235/index.m3u8
+#EXTINF:62,КВН ТВ
+http://tvhls.pskovline.tv:8080/tv238/index.m3u8
+#EXTINF:63,Калейдоскоп ТВ
+http://tvhls.pskovline.tv:8080/tv187/index.m3u8
+#EXTINF:64,Карусель
+http://tvhls.pskovline.tv:8080/tv73/index.m3u8
+#EXTINF:65,Солнце
+http://tvhls.pskovline.tv:8080/tv16/index.m3u8
+#EXTINF:66,СТС Kids
+http://tvhls.pskovline.tv:8080/tv27/index.m3u8
+#EXTINF:67,FamilyJam
+http://tvhls.pskovline.tv:8080/tv31/index.m3u8
+#EXTINF:68,ТипТоп HD
+http://tvhls.pskovline.tv:8080/tv30/index.m3u8
+#EXTINF:69,Детский мир
+http://tvhls.pskovline.tv:8080/tv44/index.m3u8
+#EXTINF:70,Мама
+http://tvhls.pskovline.tv:8080/tv47/index.m3u8
+#EXTINF:71,О!
+http://tvhls.pskovline.tv:8080/tv51/index.m3u8
+#EXTINF:72,Мультимузыка
+http://tvhls.pskovline.tv:8080/tv109/index.m3u8
+#EXTINF:73,Ani
+http://tvhls.pskovline.tv:8080/tv120/index.m3u8
+#EXTINF:74,TIJI
+http://tvhls.pskovline.tv:8080/tv130/index.m3u8
+#EXTINF:75,Уник-ум
+http://tvhls.pskovline.tv:8080/tv166/index.m3u8
+#EXTINF:76,Мульт
+http://tvhls.pskovline.tv:8080/tv176/index.m3u8
+#EXTINF:77,Gulli Girl
+http://tvhls.pskovline.tv:8080/tv234/index.m3u8
+#EXTINF:78,СуперГерои
+http://tvhls.pskovline.tv:8080/tv237/index.m3u8
+#EXTINF:79,ТВ3
+http://tvhls.pskovline.tv:8080/tv67/index.m3u8
+#EXTINF:80,Суббота
+http://tvhls.pskovline.tv:8080/tv164/index.m3u8
+#EXTINF:81,Дорама
+http://tvhls.pskovline.tv:8080/tv25/index.m3u8
+#EXTINF:82,viju TV1000
+http://tvhls.pskovline.tv:8080/tv17/index.m3u8
+#EXTINF:83,KinoJam 1
+http://tvhls.pskovline.tv:8080/tv33/index.m3u8
+#EXTINF:84,Синема
+http://tvhls.pskovline.tv:8080/tv38/index.m3u8
+#EXTINF:85,Советская киноклассика
+http://tvhls.pskovline.tv:8080/tv34/index.m3u8
+#EXTINF:86,Индийское кино
+http://tvhls.pskovline.tv:8080/tv42/index.m3u8
+#EXTINF:87,Киномикс
+http://tvhls.pskovline.tv:8080/tv46/index.m3u8
+#EXTINF:88,Русский бестселлер
+http://tvhls.pskovline.tv:8080/tv56/index.m3u8
+#EXTINF:89,viju TV1000 русское
+http://tvhls.pskovline.tv:8080/tv57/index.m3u8
+#EXTINF:90,viju TV1000 action
+http://tvhls.pskovline.tv:8080/tv58/index.m3u8
+#EXTINF:91,.Sci-Fi
+http://tvhls.pskovline.tv:8080/tv21/index.m3u8
+#EXTINF:92,НТВ ХИТ
+http://tvhls.pskovline.tv:8080/tv70/index.m3u8
+#EXTINF:93,Кинопоказ
+http://tvhls.pskovline.tv:8080/tv72/index.m3u8
+#EXTINF:94,Дом Кино Премиум HD
+http://tvhls.pskovline.tv:8080/tv74/index.m3u8
+#EXTINF:95,AmediaHit HD
+http://tvhls.pskovline.tv:8080/tv191/index.m3u8
+#EXTINF:96,Наше новое кино
+http://tvhls.pskovline.tv:8080/tv90/index.m3u8
+#EXTINF:97,.Red
+http://tvhls.pskovline.tv:8080/tv22/index.m3u8
+#EXTINF:98,Русский детектив
+http://tvhls.pskovline.tv:8080/tv105/index.m3u8
+#EXTINF:99,Hollywood HD
+http://tvhls.pskovline.tv:8080/tv108/index.m3u8
+#EXTINF:100,Амедиа 2
+http://tvhls.pskovline.tv:8080/tv121/index.m3u8
+#EXTINF:101,Мужское кино
+http://tvhls.pskovline.tv:8080/tv129/index.m3u8
+#EXTINF:102,KinoLiving
+http://tvhls.pskovline.tv:8080/tv125/index.m3u8
+#EXTINF:103,.Black
+http://tvhls.pskovline.tv:8080/tv128/index.m3u8
+#EXTINF:104,SAGA TV
+http://tvhls.pskovline.tv:8080/tv137/index.m3u8
+#EXTINF:105,НСТВ
+http://tvhls.pskovline.tv:8080/tv139/index.m3u8
+#EXTINF:106,Русский роман
+http://tvhls.pskovline.tv:8080/tv141/index.m3u8
+#EXTINF:107,Киносвидание
+http://tvhls.pskovline.tv:8080/tv203/index.m3u8
+#EXTINF:108,Кинокомедия
+http://tvhls.pskovline.tv:8080/tv146/index.m3u8
+#EXTINF:109,Амедиа 1
+http://tvhls.pskovline.tv:8080/tv152/index.m3u8
+#EXTINF:110,Кино ТВ
+http://tvhls.pskovline.tv:8080/tv154/index.m3u8
+#EXTINF:111,Золотая коллекция
+http://tvhls.pskovline.tv:8080/tv163/index.m3u8
+#EXTINF:112,Русский Иллюзион
+http://tvhls.pskovline.tv:8080/tv167/index.m3u8
+#EXTINF:113,Иллюзион+
+http://tvhls.pskovline.tv:8080/tv168/index.m3u8
+#EXTINF:114,Еврокино
+http://tvhls.pskovline.tv:8080/tv171/index.m3u8
+#EXTINF:115,Дом кино
+http://tvhls.pskovline.tv:8080/tv197/index.m3u8
+#EXTINF:116,Киносерия
+http://tvhls.pskovline.tv:8080/tv156/index.m3u8
+#EXTINF:117,Звезда Плюс
+http://tvhls.pskovline.tv:8080/tv159/index.m3u8
+#EXTINF:118,Родное кино
+http://tvhls.pskovline.tv:8080/tv160/index.m3u8
+#EXTINF:119,Индия
+http://tvhls.pskovline.tv:8080/tv239/index.m3u8
+#EXTINF:120,Киноужас
+http://tvhls.pskovline.tv:8080/tv240/index.m3u8
+#EXTINF:121,Победа
+http://tvhls.pskovline.tv:8080/tv241/index.m3u8
+#EXTINF:122,Тайна
+http://tvhls.pskovline.tv:8080/tv174/index.m3u8
+#EXTINF:123,Матч ТВ
+http://tvhls.pskovline.tv:8080/tv4/index.m3u8
+#EXTINF:124,Матч! Страна
+http://tvhls.pskovline.tv:8080/tv32/index.m3u8
+#EXTINF:125,Матч! Боец
+http://tvhls.pskovline.tv:8080/tv53/index.m3u8
+#EXTINF:126,viju+ Sport
+http://tvhls.pskovline.tv:8080/tv63/index.m3u8
+#EXTINF:127,Матч! Арена HD
+http://tvhls.pskovline.tv:8080/tv89/index.m3u8
+#EXTINF:128,БОКС ТВ
+http://tvhls.pskovline.tv:8080/tv94/index.m3u8
+#EXTINF:129,Живи
+http://tvhls.pskovline.tv:8080/tv97/index.m3u8
+#EXTINF:130,Матч! Игра
+http://tvhls.pskovline.tv:8080/tv106/index.m3u8
+#EXTINF:131,MMA-TV
+http://tvhls.pskovline.tv:8080/tv119/index.m3u8
+#EXTINF:132,КХЛ
+http://tvhls.pskovline.tv:8080/tv127/index.m3u8
+#EXTINF:133,Муз
+http://tvhls.pskovline.tv:8080/tv91/index.m3u8
+#EXTINF:134,1HD
+http://tvhls.pskovline.tv:8080/tv41/index.m3u8
+#EXTINF:135,RU.TV
+http://tvhls.pskovline.tv:8080/tv65/index.m3u8
+#EXTINF:136,ЕвропаПлюсТВ
+http://tvhls.pskovline.tv:8080/tv80/index.m3u8
+#EXTINF:137,ТНТ Music
+http://tvhls.pskovline.tv:8080/tv26/index.m3u8
+#EXTINF:138,Ля-минор
+http://tvhls.pskovline.tv:8080/tv96/index.m3u8
+#EXTINF:139,BRIDGE
+http://tvhls.pskovline.tv:8080/tv104/index.m3u8
+#EXTINF:140,BRIDGE Русский Хит
+http://tvhls.pskovline.tv:8080/tv116/index.m3u8
+#EXTINF:141,BRIDGE HITS
+http://tvhls.pskovline.tv:8080/tv131/index.m3u8
+#EXTINF:142,Музыка Первого
+http://tvhls.pskovline.tv:8080/tv194/index.m3u8
+#EXTINF:143,BRIDGE CLASSIC
+http://tvhls.pskovline.tv:8080/tv155/index.m3u8
+#EXTINF:144,Усадьба
+http://tvhls.pskovline.tv:8080/tv52/index.m3u8
+#EXTINF:145,Планета HD
+http://tvhls.pskovline.tv:8080/tv54/index.m3u8
+#EXTINF:146,Вопросы и ответы
+http://tvhls.pskovline.tv:8080/tv55/index.m3u8
+#EXTINF:147,viju Nature
+http://tvhls.pskovline.tv:8080/tv59/index.m3u8
+#EXTINF:148,viju History
+http://tvhls.pskovline.tv:8080/tv61/index.m3u8
+#EXTINF:149,Da Vinci
+http://tvhls.pskovline.tv:8080/tv62/index.m3u8
+#EXTINF:150,Живая планета
+http://tvhls.pskovline.tv:8080/tv78/index.m3u8
+#EXTINF:151,RTG TV
+http://tvhls.pskovline.tv:8080/tv81/index.m3u8
+#EXTINF:152,Телепутешествия
+http://tvhls.pskovline.tv:8080/tv20/index.m3u8
+#EXTINF:153,Наука
+http://tvhls.pskovline.tv:8080/tv123/index.m3u8
+#EXTINF:154,Нано
+http://tvhls.pskovline.tv:8080/tv133/index.m3u8
+#EXTINF:155,Зоопарк
+http://tvhls.pskovline.tv:8080/tv169/index.m3u8
+#EXTINF:156,Техно 24
+http://tvhls.pskovline.tv:8080/tv177/index.m3u8
+#EXTINF:157,360.ru
+http://tvhls.pskovline.tv:8080/tv37/index.m3u8
+#EXTINF:158,Вместе РФ
+http://tvhls.pskovline.tv:8080/tv99/index.m3u8
+#EXTINF:159,РБК
+http://tvhls.pskovline.tv:8080/tv11/index.m3u8
+#EXTINF:160,Россия К
+http://tvhls.pskovline.tv:8080/tv3/index.m3u8
+#EXTINF:161,Спас
+http://tvhls.pskovline.tv:8080/tv134/index.m3u8
+#EXTINF:162,ТБН
+http://tvhls.pskovline.tv:8080/tv66/index.m3u8
+#EXTINF:163,Три ангела
+http://tvhls.pskovline.tv:8080/tv113/index.m3u8
+#EXTINF:164,Союз
+http://tvhls.pskovline.tv:8080/tv117/index.m3u8
+#EXTINF:165,История
+http://tvhls.pskovline.tv:8080/tv151/index.m3u8
+#EXTINF:166,Красная Линия
+http://tvhls.pskovline.tv:8080/tv165/index.m3u8
+#EXTINF:167,Ностальгия
+http://tvhls.pskovline.tv:8080/tv186/index.m3u8
+#EXTINF:168,Кто есть кто
+http://tvhls.pskovline.tv:8080/tv181/index.m3u8
