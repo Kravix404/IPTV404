@@ -3866,23 +3866,6 @@ http://stream.ehrhiti.lv:8000/Stream_66.mp3
 
 #EXTINF:-1 tvg-logo="https://alimentaryrecipes.com/images/stations/russkiehiti.webp" tvg-id="no_epg_radio" group-title="Радио", EHR FM Русские Хиты
 http://stream.ehrhiti.lv:8000/khr.mp3
-
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Кинозалы Viju",Viju TV1000
-
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000-action.png" group-title="Кинозалы Viju",Viju TV1000 Action
-
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" group-title="Кинозалы Viju",Viju TV1000 Русское
-
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="https://iptvx.one/picons/viasat-sport.png" group-title="Кинозалы Viju",Viju+ sport
-
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://iptvx.one/picons/viasat-history.png" group-title="Кинозалы Viju",Viju HISTORY
-
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" group-title="Кинозалы Viju",Viju NATURE
-
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" tvg-logo="https://iptvx.one/picons/viasat-nature-history-hd.png" group-title="Кинозалы Viju",Viju+ planet HD
-
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" group-title="Кинозалы Viju",Viju EXPLORE
-
 #EXTINF:-1 group-title="BCU Каналы",BCU Сваты HD
 http://127.0.0.1:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
 #EXTINF:-1 group-title="BCU Каналы",BCU Romantic HD
