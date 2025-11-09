@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/logo2.jpg" group-title="ИНФО", https://t.me/IPTVSAKUNA
 https://raw.githubusercontent.com/Kravix404/IPTV404/refs/heads/main/info.jpg
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 17.10.2025г 13:00
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 09.11.2025г 11:40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -288,419 +288,1507 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="xabar24" group-title="Новости", Хабар 24
 https://stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1--KZ24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
 
-#EXTINF:-1 tvg-id="ufc" group-title="Спортивные", Удар ТВ
-http://87.246.54.249:8085/UDAR/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/1002/60/2f8a8f9c961b16485098b28ba00c7b60.png" tvg-id="UFC Network" group-title="Спортивные", UFC Network
-https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ac/3f/5c/ac3f5c30-98c6-03fa-6fc0-a6bff88868ee/App_Icon-marketing.lsr/1200x630bb.png" tvg-id="no_epg_sport" group-title="Спортивные", UFA TV HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://kino-static.tricolor.ru/media/v2/b7df0493-970c-432d-a8a4-30c00a29d896" group-title="Спортивные", Amediateka DAZN
-https://stream-msk-19.ott.tricolor.tv/dtv/id1040_MSKSG-PVR-1--Nash_sport30/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-logo="https://www.ediscom.it/img/clienti/loghi/dazn.svg" tvg-id="no_epg_sport" group-title="Спортивные", DAZN Combat
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://sun9-41.userapi.com/Ek4K0P7a3IKapjSOkoZgX8AtFwhk1oeFNzrACg/NmkYA3KKOU8.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Glory Kickboxing
-https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fightbox-hd" group-title="Спортивные",FightBox
-http://188.190.222.53/FightBOX/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://swerveplay.com/cdn/shop/files/logo-large_d7d2e650-ea68-4bff-9905-91a253de0e4e_130x@2x.png?v=1663096800" group-title="Спортивные",Swerve Sports
-https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", Бокс ТВ
-http://91.194.191.241:8081/chid460/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БоксТВ
-http://158.101.222.193:88/georgia_play.php?id=boxtv
-
-#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БОКС ТВ
-http://tvip.btk.teleos.ru:8081/chid460/mono.m3u8
-
-#EXTINF:-1 tvg-id="m1global" group-title="Спортивные",M-1 Global
-http://stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-id="poedinok" tvg-logo="https://epg.iptvx.one/picons/poedinok.png" group-title="Спортивные", Поединок HD
-http://stream-msk-08.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-id="sportmaster-tv" tvg-logo="https://epg.iptvx.one/picons/sportmaster-tv.png" group-title="Спортивные", Спортмастер ТВ
-https://stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-id="sila" group-title="Спортивные", Сила
-http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport
-http://192.162.64.99:5000/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", EuroSport
-http://195.64.140.147:10114/114
-
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
-http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport HD 1
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт",Eurosport 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://178.134.1.158:8081/eurosport/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD 🇪🇸
-http://185.189.225.157/EuroSport1/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2
-http://95.85.109.219:7000/play/704
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
-http://195.64.140.147:10115/115
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport2 HD
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт",Eurosport 1 [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8013/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт",Eurosport 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт",Eurosport 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://176.96.241.40/Eurosport1/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт",Eurosport 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Eurosport_HD/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт",Eurosport 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://87.76.32.36:8001/eurosport1hd
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт",Eurosport 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://146.120.14.239:3001/play/a07b
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт",Eurosport 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://195.64.140.147:10114/114
+#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Спорт",Eurosport 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://95.85.109.219:7000/play/a076
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-name="Eurosport 2" group-title="Спорт",Eurosport 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://176.96.241.40/Eurosport2/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-name="Eurosport 2" group-title="Спорт",Eurosport 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://5.188.159.128:8070/eurosport2/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport HD 2
-http://192.162.64.99:5000/play/a035/index.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [ES]
-http://185.189.225.157/EuroSport2/index.m3u8
-
-#EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
-http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-id="start-triumf" group-title="Спортивные",Старт Триумф
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/xLfv9NWa9Z_xlCscXAWPGA,1760734814/streaming/start-triumf/324/1/index.m3u8
-
-#EXTINF:-1 tvg-id="tonus-tv" group-title="Спортивные",Тонус ТВ
-http://stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1--Tonus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 group-title="Спортивные",Russian Extreme HD
-http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Спортивные",Матч! ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-
-#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! HD
-http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена
-http://46.8.46.14/arena/index.m3u8
-
-#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена HD
-http://193.111.244.35:7474/matcharena/index.m3u8
-
-#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные", Матч Боец
-http://91.194.191.241:8081/chid143/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-boets" group-title="Спортивные", Матч! Боец HD
-http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3ODA3ODEsImlhdCI6MTc2MDY5NDM4MSwiY2lkIjo2LCJ1aWQiOjk1NTAzNTQ1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.R8mruQOj5oBZM4NM0ayS4-f5L1hyhmYX6e-pK0psdXc&offset=3
-
-#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра
-http://91.194.191.241:8081/chid53/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч Игра
-http://46.8.46.14/eurosport/index.m3u8
-
-#EXTINF:-1.tvg-id="match-nash-sport" group-title="Спортивные", Матч Страна
-http://91.194.191.241:8081/chid56/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-nash-sport" group-title="Спортивные", Матч! Страна
-http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3ODA3ODEsImlhdCI6MTc2MDY5NDM4MSwiY2lkIjo2LCJ1aWQiOjk1NTAzNTQ1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.R8mruQOj5oBZM4NM0ayS4-f5L1hyhmYX6e-pK0psdXc&offset=3
-
-#EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные", Матч Планета
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-
-#EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные", Матч! Планета
-http://tvip.btk.teleos.ru:8081/chid52/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер
-http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч-Премьер
-http://192.162.64.99:5000/play/a02b/index.m3u8
-
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер
-http://46.8.46.14/premier/index.m3u8
-
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч Премьер HD
-http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
-
-#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/AKi8XU7mvXt25y7dLuHhHg,1760734813/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 1
-http://193.111.244.35:7474/matchfut1hd/index.m3u8
-
-#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/sgLELmpbDWxenKr2-1xQzA,1760734813/streaming/footbal1hd/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="match-football2" group-title="Спортивные", Матч! Футбол 2
-http://193.111.244.35:7474/matchfutbol2/index.m3u8
-
-#EXTINF:-1 tvg-id="match-football2" group-title="Спортивные", Матч! Футбол 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/6EDY4Ikhb3oRAUbVuaZ-LQ,1760734813/streaming/footbal2hd/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3
-http://192.162.64.99:5000/play/a030/index.m3u8
-
-#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/m7mPfP1M7-RbKFXlbdlxdw,1760734813/streaming/footbal3hd/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные", Сетанта Спорт 1 HD
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные", Сетанта Спорт 2 HD
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="setanta1-ge" group-title="Спортивные", Setanta Sports 1 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
-#EXTINF:-1 tvg-id="setanta2-ge" group-title="Спортивные", Setanta Sports 2 Georgia
-http://94.43.1.138:8081/setanta2/index.m3u8
-
-#EXTINF:-1 tvg-id="okko-sport-2" group-title="Спортивные", Окко.Прайм Спорт
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="inter-it" group-title="Спортивные", Inter TV
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7f/34/90/7f3490c411796ccb81b51a28d4f8f378.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/710ZHvpAKUL._AC_UL800_QL65_.png" tvg-id="no_epg_sport" group-title="Спортивные", FIFA+
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viju+ Sport
-http://46.8.46.14/viasport/index.m3u8
-
-#EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viasat Sport
-http://158.101.222.193:88/georgia_play.php?id=viasatsport
-
-#EXTINF:-1 tvg-id="footbolny" group-title="Спортивные", Мяч
-https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-id="football-ru" group-title="Спортивные", Футбол
-http://tvip.btk.teleos.ru:8081/chid50/index.m3u8
-
-#EXTINF:-1 tvg-id="voleybol" group-title="Спортивные", Волейбол HD
-http://stream-msk-19.ott.tricolor.tv/dtv/id1064_MSKSG-PVR-1--Volleyball_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="kxl" group-title="Спортивные", КХЛ
-http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3ODA3ODEsImlhdCI6MTc2MDY5NDM4MSwiY2lkIjo2LCJ1aWQiOjk1NTAzNTQ1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.R8mruQOj5oBZM4NM0ayS4-f5L1hyhmYX6e-pK0psdXc&offset=3
-
-#EXTINF:-1 tvg-id="kxl" group-title="Спортивные", КХЛ ТВ
-http://tvip.btk.teleos.ru:8081/chid55/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="kxl" group-title="Спортивные", KHL
-http://46.8.46.14/khl/index.m3u8
-
-#EXTINF:-1 tvg-id="kxl" group-title="Спортивные", КХЛ ТВ HD
-http://84.245.224.71/KHLHD/mono.m3u8
-
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные", KHL Prime
-http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
-
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные", КХЛ Prime
-http://192.162.64.99:5200/play/a046/index.m3u8
-
-#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные", KHL Prime HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/GpqQ-s8egSg0vLy2G_TuVQ,1760734814/streaming/khlhd/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Хоккей ТВ
-https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="Спортивные", NHL (Интересные моменты)
-https://nhl-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Спортивные",ТВ Спорт
-http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-id="bolshoj-efir" group-title="Спортивные", Большой эфир
-http://stream-msk-10.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-id="igra" tvg-logo="https://epg.iptvx.one/picons/igra.png" group-title="Спортивные", Игра HD
-http://stream-msk-06.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc2MDc4MDAzMCwiaHdpZCI6IjI0MDEzMDg2NDk0MTJiNTQyZjViN2NlMzdkMWE3N2UwMjU0YWQzZTY0NDQ1YTkyZWVmYjhjYTNmOWI1M2VlZTEiLCJsYXN0X3JlcV9kYXRlIjoxNzYwMTc1MjMwLCJzZXNzaW9uX2lkIjoiODRiNmY0NGU1MDNiYWViZTE5MTAxN2MyOTNhYzg1MTUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ccsl9avktUTAxJDOvsUN_TLZdz9rKOJt8n27XWUDGXc
-
-#EXTINF:-1 tvg-id="tancuj" group-title="Спортивные",Танцуй!
-http://178.212.71.253:8000/play/81/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные",Конный мир
-http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://nederland.broadbandtvnews.com/wp-content/uploads/2012/06/horse-and-country.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Horse and Country
-https://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
-
-#EXTINF:-1 tvg-id="belarus5" group-title="Спортивные", Беларусь 5 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="belarus5-inet" group-title="Спортивные", Беларусь 5 Интернет
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/chunklist_b2660000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.zarya-kaspiya.ru/wp-content/uploads/2019/09/LOGO-ASTRAKHAN-RU-SPORT-ver.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Астрахань Спорт
-http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="mir-basketbola" group-title="Спортивные", Мир баскетбола HD
-http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA3ODA3ODEsImlhdCI6MTc2MDY5NDM4MSwiY2lkIjo2LCJ1aWQiOjk1NTAzNTQ1NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.R8mruQOj5oBZM4NM0ayS4-f5L1hyhmYX6e-pK0psdXc&offset=3
-
-#EXTINF:-1 tvg-id="aeme-sports" group-title="Спортивные", Extreme sports
-http://192.162.64.99:5000/play/a02f/index.m3u8
-
-#EXTINF:-1 tvg-id="extreme-sports" group-title="Спортивные", Extreme sports HD
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-name="Eurosport 2" group-title="Спорт",Eurosport 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-name="Eurosport 2" group-title="Спорт",Eurosport 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Eurosport_2_HD/video.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-name="Eurosport 2" group-title="Спорт",Eurosport 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-name="Eurosport 2" group-title="Спорт",Eurosport 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://tvip.btk.teleos.ru:8081/chid52/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-name="Eurosport 2" group-title="Спорт",Eurosport 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://95.85.109.219:7000/play/704
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-name="Eurosport 2" group-title="Спорт",Eurosport 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://146.120.14.239:3001/play/a07c
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-name="Eurosport 2" group-title="Спорт",Eurosport 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.64.140.147:10115/115
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-logo="https://i.imgur.com/m7IC01U.png" tvg-name="Extreme Sports" group-title="Спорт",Extreme Sports [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://217.25.80.16/Extreme_Sport/mono.m3u8
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-logo="https://i.imgur.com/m7IC01U.png" tvg-name="Extreme Sports" group-title="Спорт",Extreme Sports [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://45.11.139.43:8555/extsport/index.m3u8
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-logo="https://i.imgur.com/m7IC01U.png" tvg-name="Extreme Sports" group-title="Спорт",Extreme Sports [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
 http://vod.stb.tvime.ru/Extreme_Sports/video.m3u8
-
-#EXTINF:-1 tvg-id="fuel-tv-hd" group-title="Спортивные", Fuel TV HD
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="tyc-sports-ar" group-title="Спортивные", TyC Sports [AR]
-http://181.188.216.5:18000/play/a01e/index.m3u8
-
-#EXTINF:-1 tvg-id="trace-sport-stars" group-title="Спортивные", Trace Sport Start [RU]
-http://87.120.142.11:18000/Rossiya1
-
-#EXTINF:-1 tvg-id="trace-sport-stars" group-title="Спортивные", Trace Sport Start HD [EN]
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-logo="https://i.imgur.com/m7IC01U.png" tvg-name="Extreme Sports" group-title="Спорт",Extreme Sports [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.2.151:4022/udp/234.0.0.113:2000
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-logo="https://i.imgur.com/m7IC01U.png" tvg-name="Extreme Sports" group-title="Спорт",Extreme Sports [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Extreme_Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ExtremeSportsChannel.ru" tvg-logo="https://i.imgur.com/m7IC01U.png" tvg-name="Extreme Sports" group-title="Спорт",Extreme Sports [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://109.200.130.123:7537/play/a03p
+#EXTINF:-1 tvg-id="FastFunBoxHD.ru" tvg-logo="https://i.imgur.com/XLBfoed.png" group-title="Спорт",Fast&FunBox [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://94.232.127.28:8080/fastfunboxhd/index.m3u8
+#EXTINF:-1 tvg-id="FastFunBoxHD.ru" tvg-logo="https://i.imgur.com/XLBfoed.png" group-title="Спорт",Fast&FunBox [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.25.8.59:8000/Avto24
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-name="FightBox" group-title="Спорт",FightBox [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://217.25.80.16/FightBox/mono.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-name="FightBox" group-title="Спорт",FightBox [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/fightbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-name="FightBox" group-title="Спорт",FightBox [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://188.190.222.53/FightBOX/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-name="FightBox" group-title="Спорт",FightBox [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.25.8.59:8000/box
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-name="FightBox" group-title="Спорт",FightBox [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://109.200.130.123:7526/play/a00n
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-name="IDC EuroSport ?" group-title="Спорт",IDC EuroSport ? [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://iptv-live.idc.md/hls/78/live1.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://84.245.224.71/KHLHD/mono.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://217.25.80.16/KHL_TV/mono.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [1280x720@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/khl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [800x450@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://a3285272783-s80718.cdn.ngenix.net//hls//CH_KHL//video_800x450_avc1/playlist.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://194.32.242.245/khl/index.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://94.232.127.28:8080/khlhd/index.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [720x576@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.8.46.14/khl/index.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [720x576@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://195.26.83.96:7007/play/4/index.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid55/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [1280x720@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/KHL_TV/index.m3u8
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.158.223.132:8009/KHL
+#EXTINF:-1 tvg-id="KHL.ru" tvg-logo="https://i.imgur.com/RgdHdOV.png" tvg-name="Телеканал КХЛ" group-title="Спорт",KHL [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.2.151:4022/udp/234.0.0.14:2000
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8297/index.m3u8
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://217.25.80.16/KHL_HD/mono.m3u8
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime [1280x720@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/khl_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime [1280x720@50]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://146.120.14.239:3001/play/a0dv
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.25.8.59:8000/khl
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime [1920x1080@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://195.64.140.147:10109/109
+#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-logo="https://i.imgur.com/pwxT0ON.png" tvg-name="KHL Prime" group-title="Спорт",KHL Prime [1280x720@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/KHL_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-name="M-1 Global" group-title="Спорт",MMA-TV [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://217.25.80.16/m1_global/mono.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-name="M-1 Global" group-title="Спорт",MMA-TV [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-name="M-1 Global" group-title="Спорт",MMA-TV [704x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://93.170.254.17/MMATV/index.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-name="M-1 Global" group-title="Спорт",MMA-TV [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.76.32.36:8001/m1global
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-name="M-1 Global" group-title="Спорт",MMA-TV [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://146.120.14.239:3001/play/a08k
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-name="M-1 Global" group-title="Спорт",MMA-TV [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://95.85.109.219:7000/play/a089
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://i.imgur.com/QhdxNsB.png" tvg-name="M-1 Global" group-title="Спорт",MMA-TV [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/M1_Global/index.m3u8
+#EXTINF:-1 tvg-name="Okko Прайм Спорт" group-title="Спорт",Okko Прайм Спорт [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Okko Прайм Спорт" group-title="Спорт",Okko Прайм Спорт [1920x1080@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/9183/index.m3u8
+#EXTINF:-1 tvg-name="Okko Футбол" group-title="Спорт",Okko Футбол [1920x1080@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/9170/index.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-logo="https://i.imgur.com/8ANUZAu.png" tvg-name="Setanta Sports 1" group-title="Спорт",Setanta Sports 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SetantaSports1.ru" tvg-logo="https://i.imgur.com/8ANUZAu.png" tvg-name="Setanta Sports 1" group-title="Спорт",Setanta Sports 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://95.85.109.219:7000/play/a067
+#EXTINF:-1 tvg-id="SetantaSports2.ru" tvg-logo="https://i.imgur.com/NOBACb6.png" tvg-name="Setanta Sports 2" group-title="Спорт",Setanta Sports 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SetantaSports2.ru" tvg-logo="https://i.imgur.com/NOBACb6.png" tvg-name="Setanta Sports 2" group-title="Спорт",Setanta Sports 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://95.85.109.219:7000/play/a068
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-name="Trace Sport Stars" group-title="Спорт",Trace Sport Stars [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/trace_sport_stars/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-name="Trace Sport Stars" group-title="Спорт",Trace Sport Stars [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
 http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="qsport-kg" group-title="Спортивные", Q Sport Киргизия
-http://95.85.109.219:7000/play/a05u
-
-#EXTINF:-1 tvg-id="uzsport" group-title="Спортивные", UzSport
-https://vs1759.vcdn.biz/519f03ad03fe54e0d772b98cf1be2087_megogo/live/hls/b/4000/u_sid/0/o/140085841/rsid/e31ac304-6b51-4858-8220-2426f7ba0679/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/213.230.87.109*asn/u_srvc/83576/u_did/web_A3X9Ki7uk5l71nHQLj1IQyMVwDVRnQLz/type.live/chunklist-sid8417518138264452615-b4000000-a72531.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvradioo.ru/wp-content/uploads/2023/01/sport-teleyaylym.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.avm.gen.tr/resimler/network_kadin_1.jpg" tvg-id="no_epg_sport" group-title="Спортивные", A21 Network
-https://tv.a21network.ru/content/37909/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://offer.racingamerica.com/wp-content/uploads/2023/04/RacingAmerica-FullColor-Registered.png" tvg-id="no_epg_sport" group-title="Спортивные", Racing America
-https://livetv-fa.tubi.video/racing-america/playlist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://photos.live-tv-channels.org/tv-logo/canal-motor-5880.webp" group-title="Спортивные", Canal Motor
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.pinimg.com/736x/bf/fb/84/bffb840eb9b62cec183277f26a5be5bd.jpg" group-title="Спортивные",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Sky Sport F1 [IT]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/136485
-
-#EXTINF:-1 group-title="Спортивные", Sky Sport F1 [DE]
-http://nocable.cc:8080/Ss5DKE/232455/125947
-
-#EXTINF:-1 group-title="Спортивные", Sky Sport Golf [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135342
-
-#EXTINF:-1 group-title="Спортивные", Sky Sport Mix [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135343
-
-#EXTINF:-1 group-title="Спортивные", Sky Sport NBA [IT]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/136492
-
-#EXTINF:-1 group-title="Спортивные", Sky Sport News [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135344
-
-#EXTINF:-1 group-title="Спортивные", Sky Sport Premier League [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135345
-
-#EXTINF:-1 tvg-id="sky-sports-laliga-mx" group-title="Спортивные", Sky Sports LaLiga [MX]
-http://181.78.106.127:9000/play/ca030/index.m3u8
-
-#EXTINF:-1 group-title="Спортивные", Sky Sport Tennis [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135346
-
-#EXTINF:-1 group-title="Спортивные", Sky Sport Tennis [IT]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/136495
-
-#EXTINF:-1 group-title="Спортивные", Sky Sport Top Event [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135347
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd1.png" group-title="Спортивные", Sky Sport 1 HD [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135348
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd2.png" group-title="Спортивные", Sky Sport 2 HD [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135350
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd3.png" group-title="Спортивные", Sky Sport 3 HD [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135351
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd4.png" group-title="Спортивные", Sky Sport 4 HD [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135352
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd5.png" group-title="Спортивные", Sky Sport 5 HD [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135353
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd6.png" group-title="Спортивные", Sky Sport 6 HD [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135354
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd7.png" group-title="Спортивные", Sky Sport 7 HD [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135355
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd8.png" group-title="Спортивные", Sky Sport 8 HD [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135356
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/sky-sport-hd9.png" group-title="Спортивные", Sky Sport 9 HD [DE]
-http://viphlvp.xyz:8080/VIP0198170300082743/81703001017663/135357
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/is4-ssl.mzstatic.com/image/thumb/Purple62/v4/60/ad/9d/60ad9dd1-b779-5511-2c61-a7fc8039525d/source/1280x1280bb.jpg" tvg-id="no_epg_sport" group-title="Спортивные", ATP Tennis TV
-http://49.0.64.96:8007/TENNIS
-
-#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="Спортивные",Tennis Channel [US]
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="supertennis" group-title="Спортивные", SuperTennis HD
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn-us.png" group-title="Спортивные", ESPN
-http://181.188.216.5:18000/play/a0fb/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn2-nl.png" group-title="Спортивные", ESPN 2
-http://181.188.216.5:18000/play/a0oz/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn3-nl.png" group-title="Спортивные", ESPN 3
-http://181.188.216.5:18000/play/a0dm/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn4-nl.png" group-title="Спортивные", ESPN 4
-http://181.188.216.5:18000/play/a0am/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn1-nl.png" group-title="Спортивные", ESPN 5
-http://181.188.216.5:18000/play/a0gl/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn1-nl.png" group-title="Спортивные", ESPN 6
-http://181.188.216.5:18000/play/a0dn/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn1-nl.png" group-title="Спортивные", ESPN 7
-http://181.188.216.5:18000/play/a0i6/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://cubiktv.com/upload/images/unbeaten.png" group-title="Спортивные",UNBEATEN
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2021/09/billiard-tv-thumbnail.jpg" group-title="Спортивные", Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
-
-#EXTINF:-1 tvg-id="rtvs-sport-sk" group-title="Спортивные", RTVS Sport [SK]
-#EXTVLCOPT:http-user-agent=SmartTV
-http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ct-sport" group-title="Спортивные", CT Sport
-#EXTVLCOPT:http-user-agent=SmartTV
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-name="Trace Sport Stars" group-title="Спорт",Trace Sport Stars [1920x1080@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://95.67.12.82:9067
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-name="Trace Sport Stars" group-title="Спорт",Trace Sport Stars [720x576@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://87.120.142.11:18000/Rossiya1
+#EXTINF:-1 tvg-logo="" tvg-name="UDAR" group-title="Спорт",UDAR [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://a787201481-s80718.cdn.ngenix.net/hls/CH_UDARHD/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="UDAR" group-title="Спорт",UDAR [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/udarhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="UDAR" group-title="Спорт",UDAR [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://95.85.109.219:7000/play/a066
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [1600x1058@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://217.25.80.16/Viasat_Sport/mono.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://217.25.80.16/Viasat_Sport_HD/mono.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://77.106.252.178:4022/udp/233.33.221.31:5050
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://176.96.241.40/ViasatSport/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://194.32.242.245/viasatsport/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.8.46.14/viasport/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [720x576@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://195.26.83.96:7013/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://178.134.1.158:8081/viasatsport/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid51/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.25.8.59:8000/viasatsport
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://109.200.130.123:7537/play/a03b
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://95.85.109.219:7000/play/a094
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [720x576@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://178.217.72.72/Viasat_Sport_East_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-name="Viasat Sport" group-title="Спорт",viju+ Sport [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://195.64.140.147:10113/113
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-logo="https://i.imgur.com/BKaEtqL.png" tvg-name="Астрахань спорт" group-title="Спорт",Астрахань Спорт [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" tvg-name="Беларусь 5" group-title="Спорт",Беларусь 5 [1280x720@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w_b1460000_sleng.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" tvg-name="Беларусь 5" group-title="Спорт",Беларусь 5 [640x360@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w_b1010000_sleng.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" tvg-name="Беларусь 5" group-title="Спорт",Беларусь 5 [640x360@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b1010000_sleng.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" tvg-name="Беларусь 5" group-title="Спорт",Беларусь 5 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" tvg-name="Беларусь 5" group-title="Спорт",Беларусь 5 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" tvg-name="Беларусь 5" group-title="Спорт",Беларусь 5 [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://146.120.14.239:3001/play/a06l
+#EXTINF:-1 tvg-id="Belarus5.by" tvg-logo="https://i.imgur.com/NJsRFud.png" tvg-name="Беларусь 5" group-title="Спорт",Беларусь 5 [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://194.158.222.36:6109
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://217.25.80.16/Boks_TV/mono.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://77.106.252.178:4022/udp/233.33.221.61:5050
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid460/mono.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Boks_TV/index.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://109.75.59.241:8017/Boks/index.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [1280x720@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/Boks_TV/index.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.76.32.36:8001/bokstv
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.46.16.239:8000/Eurosport_1
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://146.120.14.239:3001/play/a08c
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://95.85.109.219:7000/play/a08a
+#EXTINF:-1 tvg-id="MirBasketbola.ru" tvg-logo="https://i.imgur.com/Tn6M609.png" tvg-name="Мир Баскетбола" group-title="Спорт",МИР Баскетбола [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://217.25.80.16/Mir_Basketbola/mono.m3u8
+#EXTINF:-1 tvg-id="MirBasketbola.ru" tvg-logo="https://i.imgur.com/Tn6M609.png" tvg-name="Мир Баскетбола" group-title="Спорт",МИР Баскетбола [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/mir_basketbola/index.m3u8
+#EXTINF:-1 tvg-id="MirBasketbola.ru" tvg-logo="https://i.imgur.com/Tn6M609.png" tvg-name="Мир Баскетбола" group-title="Спорт",МИР Баскетбола [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://146.120.14.239:3001/play/a0bw
+#EXTINF:-1 tvg-id="MirBasketbola.ru" tvg-logo="https://i.imgur.com/Tn6M609.png" tvg-name="Мир Баскетбола" group-title="Спорт",МИР Баскетбола [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.64.140.147:10111/111
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://river-1.rutube.ru/stream/genetta-323.m9.rutube.ru/Vy-fFMxPV-AQ7EVzoYUKBQ/1763201228/11bbbec75a2ceb8cf446ad16813c6eec/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8179/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8016/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://93.170.254.17/match/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://217.25.80.16/Matc_/mono.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/match_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://95.47.156.60:8000/play/3/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.8.46.14/match/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://catchup.videoline.ru/match/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fs1.starnet.lv:8080/match/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1280x720@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://178.212.71.253:8000/play/3/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Match_HD/index.m3u8
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.2.151:4022/udp/234.0.0.204:2000
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://5.188.221.43:8080/play/match
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.46.16.239:8000/Match_TV
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.2.151:4022/udp/234.0.0.242:2000
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://195.64.140.147:10105/105
+#EXTINF:-1 tvg-id="Match.ru" tvg-logo="https://i.imgur.com/iKZvKyP.png" tvg-name="Матч!" group-title="Спорт",Матч! [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/Match_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fs1.starnet.lv:8080/matcharena/index.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/arena/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [1280x720@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/arena_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.8.46.14/arena/index.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Match_Arena_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid54/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.25.8.59:8000/sport1
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://185.46.16.239:8000/Match_Arena
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.64.140.147:10096/96
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.2.151:4022/udp/234.0.0.12:2000
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-logo="https://i.imgur.com/udTzwzu.png" tvg-name="Матч! Арена" group-title="Спорт",Матч! Арена [1280x720@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-logo="https://i.imgur.com/DogOkA4.png" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fs1.starnet.lv:8080/matchboec/index.m3u8
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-logo="https://i.imgur.com/DogOkA4.png" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.8.46.14/boec/index.m3u8
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-logo="https://i.imgur.com/DogOkA4.png" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://178.212.71.253:8000/play/55/index.m3u8
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-logo="https://i.imgur.com/DogOkA4.png" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid143/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-logo="https://i.imgur.com/DogOkA4.png" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/Match_Boec/index.m3u8
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-logo="https://i.imgur.com/DogOkA4.png" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-logo="https://i.imgur.com/DogOkA4.png" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.2.151:4022/udp/234.0.0.6:2000
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-logo="https://i.imgur.com/DogOkA4.png" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://195.64.140.147:10097/97
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://i.imgur.com/5XWpF19.png" tvg-name="Матч! Игра" group-title="Спорт",Матч! Игра [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/match-igra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://i.imgur.com/5XWpF19.png" tvg-name="Матч! Игра" group-title="Спорт",Матч! Игра [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.8.46.14/eurosport/index.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://i.imgur.com/5XWpF19.png" tvg-name="Матч! Игра" group-title="Спорт",Матч! Игра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://178.212.71.253:8000/play/56/index.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://i.imgur.com/5XWpF19.png" tvg-name="Матч! Игра" group-title="Спорт",Матч! Игра [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid53/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://i.imgur.com/5XWpF19.png" tvg-name="Матч! Игра" group-title="Спорт",Матч! Игра [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Match_Igra_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://i.imgur.com/5XWpF19.png" tvg-name="Матч! Игра" group-title="Спорт",Матч! Игра [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://i.imgur.com/5XWpF19.png" tvg-name="Матч! Игра" group-title="Спорт",Матч! Игра [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.46.16.239:8000/Match_Igra
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://i.imgur.com/5XWpF19.png" tvg-name="Матч! Игра" group-title="Спорт",Матч! Игра [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.2.151:4022/udp/234.0.0.211:2000
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-logo="https://i.imgur.com/5XWpF19.png" tvg-name="Матч! Игра" group-title="Спорт",Матч! Игра [720x576@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://31.148.48.15/Match_Igra/index.m3u8
+#EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-logo="https://i.imgur.com/Jv7RwGq.png" tvg-name="Матч! Планета" group-title="Спорт",Матч! Планета [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-logo="https://i.imgur.com/Jv7RwGq.png" tvg-name="Матч! Планета" group-title="Спорт",Матч! Планета [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid52/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-logo="https://i.imgur.com/Jv7RwGq.png" tvg-name="Матч! Планета" group-title="Спорт",Матч! Планета [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.76.32.36:8001/matchplaneta
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-logo="https://i.imgur.com/GQPyHYK.png" tvg-name="Матч! Премьер" group-title="Спорт",Матч! Премьер [1280x720@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/nash_football_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-logo="https://i.imgur.com/GQPyHYK.png" tvg-name="Матч! Премьер" group-title="Спорт",Матч! Премьер [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/nash-football/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-logo="https://i.imgur.com/GQPyHYK.png" tvg-name="Матч! Премьер" group-title="Спорт",Матч! Премьер [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://46.8.46.14/premier/index.m3u8
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-logo="https://i.imgur.com/GQPyHYK.png" tvg-name="Матч! Премьер" group-title="Спорт",Матч! Премьер [720x576@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://178.212.71.253:8000/play/57/index.m3u8
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-logo="https://i.imgur.com/GQPyHYK.png" tvg-name="Матч! Премьер" group-title="Спорт",Матч! Премьер [720x576@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://tvip.btk.teleos.ru:8081/chid172/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-logo="https://i.imgur.com/GQPyHYK.png" tvg-name="Матч! Премьер" group-title="Спорт",Матч! Премьер [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-name="Матч! Страна" group-title="Спорт",Матч! Страна [720x576@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://ukr.ukrainske.tv/134/keytvainua/video.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-name="Матч! Страна" group-title="Спорт",Матч! Страна [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://194.32.242.245/matchstrana/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-name="Матч! Страна" group-title="Спорт",Матч! Страна [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://95.163.85.128/streams/media/match-strana_720x576/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-name="Матч! Страна" group-title="Спорт",Матч! Страна [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Match_Nash_Sport/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-name="Матч! Страна" group-title="Спорт",Матч! Страна [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid56/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-name="Матч! Страна" group-title="Спорт",Матч! Страна [720x576@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-name="Матч! Страна" group-title="Спорт",Матч! Страна [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.2.151:4022/udp/234.0.0.188:2000
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-name="Матч! Страна" group-title="Спорт",Матч! Страна [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.46.16.239:8000/Match_Nash_Sport
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-name="Матч! Страна" group-title="Спорт",Матч! Страна [720x576@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://195.64.140.147:10099/99
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-logo="https://i.imgur.com/X02s2UE.png" tvg-name="Матч! Страна" group-title="Спорт",Матч! Страна [1280x720@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://i.imgur.com/XS2BB02.png" tvg-name="Матч! Футбол 1" group-title="Спорт",Матч! Футбол 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10015/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://i.imgur.com/XS2BB02.png" tvg-name="Матч! Футбол 1" group-title="Спорт",Матч! Футбол 1 [1280x720@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/football1_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://i.imgur.com/XS2BB02.png" tvg-name="Матч! Футбол 1" group-title="Спорт",Матч! Футбол 1 [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8021/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://i.imgur.com/XS2BB02.png" tvg-name="Матч! Футбол 1" group-title="Спорт",Матч! Футбол 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://188.190.222.53/Match_Futbol_1/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://i.imgur.com/XS2BB02.png" tvg-name="Матч! Футбол 1" group-title="Спорт",Матч! Футбол 1 [720x576@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://i.imgur.com/XS2BB02.png" tvg-name="Матч! Футбол 1" group-title="Спорт",Матч! Футбол 1 [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://193.25.8.59:8000/fut
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://i.imgur.com/XS2BB02.png" tvg-name="Матч! Футбол 1" group-title="Спорт",Матч! Футбол 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Match_Futbol_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://i.imgur.com/XS2BB02.png" tvg-name="Матч! Футбол 1" group-title="Спорт",Матч! Футбол 1 [1280x720@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/Match_Futbol_1_HD/mono.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-logo="https://i.imgur.com/XS2BB02.png" tvg-name="Матч! Футбол 1" group-title="Спорт",Матч! Футбол 1 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.64.140.147:10100/100
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-logo="https://i.imgur.com/WhdGfSo.png" tvg-name="Матч! Футбол 2" group-title="Спорт",Матч! Футбол 2 [1920x1080@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://43a94a5e.amazzin.pw/iptv/ECGM77FWEMMA46/10027/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-logo="https://i.imgur.com/WhdGfSo.png" tvg-name="Матч! Футбол 2" group-title="Спорт",Матч! Футбол 2 [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8022/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-logo="https://i.imgur.com/WhdGfSo.png" tvg-name="Матч! Футбол 2" group-title="Спорт",Матч! Футбол 2 [1280x720@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/football2_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-logo="https://i.imgur.com/WhdGfSo.png" tvg-name="Матч! Футбол 2" group-title="Спорт",Матч! Футбол 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://188.190.222.53/Match_Futbol_2/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-logo="https://i.imgur.com/WhdGfSo.png" tvg-name="Матч! Футбол 2" group-title="Спорт",Матч! Футбол 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Match_Futbol_2_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-logo="https://i.imgur.com/WhdGfSo.png" tvg-name="Матч! Футбол 2" group-title="Спорт",Матч! Футбол 2 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.64.140.147:10101/101
+#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-logo="https://i.imgur.com/WhdGfSo.png" tvg-name="Матч! Футбол 2" group-title="Спорт",Матч! Футбол 2 [1280x720@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.imgur.com/P2ReH1u.png" tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3 [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://50.7.28.226/8029/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.imgur.com/P2ReH1u.png" tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3 [1280x720@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/football3_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.imgur.com/P2ReH1u.png" tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3 [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://185.57.68.33/110/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.imgur.com/P2ReH1u.png" tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.imgur.com/P2ReH1u.png" tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://188.190.222.53/Match_Futbol_3/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.imgur.com/P2ReH1u.png" tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3 [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.25.8.59:8000/fut3
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.imgur.com/P2ReH1u.png" tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3 [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://timeshift.arpinet.am/110/mpegts
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.imgur.com/P2ReH1u.png" tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.imgur.com/P2ReH1u.png" tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3 [1280x720@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-logo="https://i.imgur.com/P2ReH1u.png" tvg-name="Матч! Футбол 3" group-title="Спорт",Матч! Футбол 3 [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.64.140.147:10102/102
+#EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-logo="https://i.imgur.com/qjx6zZV.png" tvg-name="Русский Экстрим" group-title="Спорт",Русский Экстрим [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/rus-extrim/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-logo="https://i.imgur.com/qjx6zZV.png" tvg-name="Русский Экстрим" group-title="Спорт",Русский Экстрим [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid44/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-logo="https://i.imgur.com/qjx6zZV.png" tvg-name="Русский Экстрим" group-title="Спорт",Русский Экстрим [224x494]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.2.151:4022/udp/234.0.0.173:2000
+#EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-logo="https://i.imgur.com/qjx6zZV.png" tvg-name="Русский Экстрим" group-title="Спорт",Русский Экстрим [704x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://85.208.223.249:8888/play/a004
+#EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-logo="https://i.imgur.com/qjx6zZV.png" tvg-name="Русский Экстрим" group-title="Спорт",Русский Экстрим [704x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.26.83.96:7029/play/a008
+#EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-logo="https://i.imgur.com/qjx6zZV.png" tvg-name="Русский Экстрим" group-title="Спорт",Русский Экстрим [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
+#EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-logo="https://i.imgur.com/qjx6zZV.png" tvg-name="Русский Экстрим" group-title="Спорт",Русский Экстрим [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Russkiy_Ekstrim/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-logo="https://i.imgur.com/VBqVkno.png" tvg-name="Старт" group-title="Спорт",Старт [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://217.25.80.16/start_hd/mono.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-logo="https://i.imgur.com/VBqVkno.png" tvg-name="Старт" group-title="Спорт",Старт [1280x720@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/start_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-logo="https://i.imgur.com/VBqVkno.png" tvg-name="Старт" group-title="Спорт",Старт [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid231/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Tochkaotryva.ru" tvg-logo="https://i.imgur.com/TZiBQDK.png" tvg-name="Точка отрыва" group-title="Спорт",Точка Отрыва [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://217.25.80.16/Tochka_otryva/mono.m3u8
+#EXTINF:-1 tvg-id="Tochkaotryva.ru" tvg-logo="https://i.imgur.com/TZiBQDK.png" tvg-name="Точка отрыва" group-title="Спорт",Точка Отрыва [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/Tochka_Otryva/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Tochkaotryva.ru" tvg-logo="https://i.imgur.com/TZiBQDK.png" tvg-name="Точка отрыва" group-title="Спорт",Точка Отрыва [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://193.25.8.59:8000/outdoor
+#EXTINF:-1 tvg-id="Tochkaotryva.ru" tvg-logo="https://i.imgur.com/TZiBQDK.png" tvg-name="Точка отрыва" group-title="Спорт",Точка Отрыва [720x576@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://87.76.32.36:8001/tochkaotriva
+#EXTINF:-1 tvg-id="Tochkaotryva.ru" tvg-logo="https://i.imgur.com/TZiBQDK.png" tvg-name="Точка отрыва" group-title="Спорт",Точка Отрыва [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://109.200.130.123:7537/play/a032
+#EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-name="Футбол" group-title="Спорт",Футбол [1280x720@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://193.33.88.172/football/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-name="Футбол" group-title="Спорт",Футбол [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.217.72.72/telefootbol/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-name="Футбол" group-title="Спорт",Футбол [900x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://188.190.222.53/Football/index.m3u8
+#EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-name="Футбол" group-title="Спорт",Футбол
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid50/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-name="Футбол" group-title="Спорт",Футбол
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://tvip.btk.teleos.ru:8081/chid50/index.m3u8
+#EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-name="Футбол" group-title="Спорт",Футбол [1280x720@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31148.rafail1982.uz/Futbol_HD/index.m3u8
+#EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-name="Футбол" group-title="Спорт",Футбол [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.163.2.151:4022/udp/234.0.0.197:2000
+#EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-name="Футбол" group-title="Спорт",Футбол [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://195.64.140.147:10107/107
+#EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-name="Футбол" group-title="Спорт",Футбол [1280x720@50]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:-1 tvg-id="Football.ru" tvg-logo="https://i.imgur.com/pEuaZVx.png" tvg-name="Футбол" group-title="Спорт",Футбол [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://146.120.14.239:3001/play/a0fp
+#EXTINF:-1 tvg-id="30AGolfKingdom.us" tvg-logo="https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg" tvg-name="30A Golf Kingdom [us]" group-title="Спорт плюс",30A Golf Kingdom [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 tvg-id="4Sports.fr" tvg-logo="https://i.ibb.co/RTVXW2gj/Screenshot-2025-05-18-231648.png" tvg-name="4 Sports [fr]" group-title="Спорт плюс",4 Sports [fr] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-id="ACCDigitalNetwork.us" tvg-logo="https://i.imgur.com/V6Kaqha.png" tvg-name="ACCDN" group-title="Спорт плюс",ACC Digital Network [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-logo="https://i.imgur.com/TpCkbkT.png" tvg-name="ACCN" group-title="Спорт плюс",ACC Network [us] [1280x720@60]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ACISportTV.it" tvg-logo="https://i.imgur.com/U8cHMOt.png" tvg-name="ACI Sport TV [it]" group-title="Спорт плюс",ACI Sport TV [it] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-id="ADOTV.bj" tvg-logo="https://i.imgur.com/pxFamLr.png" tvg-name="Benin TV Juniors" group-title="Спорт плюс",ADO TV [bj] [1280x720@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" tvg-name="AD Sports 1" group-title="Спорт плюс",Abu Dhabi Sports 1 [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://213.57.91.138:8000/play/a057
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/y1I2jFK.png" tvg-name="AD Sports 2" group-title="Спорт плюс",Abu Dhabi Sports 2 [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://i.imgur.com/y1I2jFK.png" tvg-name="AD Sports 2" group-title="Спорт плюс",Abu Dhabi Sports 2 [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.57.91.138:8000/play/a058
+#EXTINF:-1 tvg-id="Africa24Sport.fr" tvg-logo="https://i.imgur.com/YWIJdai.png" tvg-name="Africa 24 Sport [fr]" group-title="Спорт плюс",Africa 24 Sport [fr] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" tvg-name="الكأس 4" group-title="Спорт плюс",Alkass Four [qa] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://Streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkassFour.qa" tvg-logo="https://i.imgur.com/iDL65Wu.png" tvg-name="الكأس 4" group-title="Спорт плюс",Alkass Four [qa] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://streamer3.qna.org.qa/148164621_live/148164621_296.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkassThree.qa" tvg-logo="https://i.imgur.com/d57BdFh.png" tvg-name="الكأس 3" group-title="Спорт плюс",Alkass Three [qa] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" tvg-name="الكأس 2" group-title="Спорт плюс",Alkass Two [qa] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://Streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AlkassTwo.qa" tvg-logo="https://i.imgur.com/8w61kFX.png" tvg-name="الكأس 2" group-title="Спорт плюс",Alkass Two [qa] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport [ro]" group-title="Спорт плюс",AntenaSport [ro] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1.sk" tvg-logo="https://i.imgur.com/2qf67zW.png" tvg-name="Arena Sport 1 [sk]" group-title="Спорт плюс",Arena Sport 1 [sk] [1920x1080@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://176.116.105.82/Arena_Sport1_HD/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport2.sk" tvg-logo="https://i.imgur.com/Yq3Jf19.png" tvg-name="Arena Sport 2 [sk]" group-title="Спорт плюс",Arena Sport 2 [sk] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://176.116.105.82/Arena_Sport2_HD/index.m3u8
+#EXTINF:-1 tvg-id="ArenaSport2.si" tvg-logo="https://i.postimg.cc/GmDqsKwB/arenasport2.png" tvg-name="Arena Sport 2 Slovenija" group-title="Спорт плюс",Arena sport 2 [si] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://195.64.140.147:10098/98
+#EXTINF:-1 tvg-id="BEKSports.us" tvg-logo="https://i.imgur.com/1l3t5jd.png" tvg-name="BEK Sports [us]" group-title="Спорт плюс",BEK Sports [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" tvg-name="Bahrain Sports 1 [bh]" group-title="Спорт плюс",Bahrain Sports 1 [bh] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/ZkuZmIo.png" tvg-name="Bahrain Sports 2 [bh]" group-title="Спорт плюс",Bahrain Sports 2 [bh] [1280x720@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-logo="https://i.imgur.com/A8CnA8g.png" tvg-name="CBS Sports Network USA [us]" group-title="Спорт плюс",CBS Sports Network USA [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://i.postimg.cc/GhQ9c8mZ/ctsport.png" tvg-name="ČT Sport" group-title="Спорт плюс",CT Sport [cz] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://i.postimg.cc/GhQ9c8mZ/ctsport.png" tvg-name="ČT Sport" group-title="Спорт плюс",CT Sport [cz] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://88.212.15.27/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CTSport.cz" tvg-logo="https://i.postimg.cc/GhQ9c8mZ/ctsport.png" tvg-name="ČT Sport" group-title="Спорт плюс",CT Sport [cz] [1280x720@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Спортивные", beIN SPORTS XTRA
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Спортивные", Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Спортивные", Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Спортивные", Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="CampusLore.us" tvg-logo="https://i.imgur.com/dCXl0rq.png" tvg-name="CampusLore [us]" group-title="Спорт плюс",CampusLore [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldoInter.br" tvg-logo="https://i.imgur.com/TQFWEIS.png" tvg-name="Canal do Inter [br]" group-title="Спорт плюс",Canal do Inter [br] [1280x720@24]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" tvg-logo="https://i.imgur.com/J2Ky5OO.png" tvg-name="DD Sports [in]" group-title="Спорт плюс",DD Sports [in] [1024x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-id="DiemaSport.bg" tvg-logo="https://i.imgur.com/NFsWTVp.png" tvg-name="Diema Sport [bg]" group-title="Спорт плюс",Diema Sport [bg] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.169.39.30:5134
+#EXTINF:-1 tvg-id="DiemaSport2.bg" tvg-logo="https://i.imgur.com/Rtoc3ZX.png" tvg-name="Diema sport 2 [bg]" group-title="Спорт плюс",Diema sport 2 [bg] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://213.169.39.30:5136
+#EXTINF:-1 tvg-id="DiemaSport3.bg" tvg-logo="https://i.imgur.com/EQAoVRi.png" tvg-name="Diema sport 3 [bg]" group-title="Спорт плюс",Diema sport 3 [bg] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://213.169.39.30:5216
+#EXTINF:-1 tvg-id="DirecTVSports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" tvg-name="DirecTV Sports [us]" group-title="Спорт плюс",DirecTV Sports [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://38.183.182.166:8000/play/a125/index.m3u8
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-logo="https://i.imgur.com/EyCDhgN.png" tvg-name="Distro - Sports TV Plus" group-title="Спорт плюс",Distro - Sports TV Plus [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/H73N5AA/6B0796F151C2/m.m3u8
+#EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-logo="https://i.imgur.com/tNKPSkO.png" tvg-name="Đồng Nai TV 2" group-title="Спорт плюс",Dong Nai TV 2 [vn] [854x480@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://stream.thingnet.vn:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" tvg-name="دبي ريسينج 2" group-title="Спорт плюс",Dubai Racing 2 [ae] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" tvg-name="دبي ريسينج 2" group-title="Спорт плюс",Dubai Racing 2 [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png" tvg-name="دبي ريسينج 3" group-title="Спорт плюс",Dubai Racing 3 [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/CJ1dagP.png" tvg-name="دبي ريسينج 1" group-title="Спорт плюс",Dubai Racing [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" tvg-name="دبي الرياضية 1" group-title="Спорт плюс",Dubai Sports 1 [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" tvg-name="دبي الرياضية 2" group-title="Спорт плюс",Dubai Sports 2 [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://river-1.rutube.ru/stream/genetta-513.ost.rutube.ru/JUqqEM-FiFEUrKP6XpD8pw/1763201477/9d751116af89fd3a94b79927de49699b/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" tvg-name="دبي الرياضية 2" group-title="Спорт плюс",Dubai Sports 2 [ae] [1280x720@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" tvg-name="دبي الرياضية 2" group-title="Спорт плюс",Dubai Sports 2 [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" tvg-name="دبي الرياضية 2" group-title="Спорт плюс",Dubai Sports 2 [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" tvg-name="دبي الرياضية 3" group-title="Спорт плюс",Dubai Sports 3 [ae] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" tvg-name="دبي الرياضية 3" group-title="Спорт плюс",Dubai Sports 3 [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" tvg-name="دبي الرياضية 3" group-title="Спорт плюс",Dubai Sports 3 [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://i.imgur.com/HiBrysh.png" tvg-name="ESPNU [us]" group-title="Спорт плюс",ESPNU [us] [1280x720@60]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://fl41.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://i.imgur.com/HiBrysh.png" tvg-name="ESPNU [us]" group-title="Спорт плюс",ESPNU [us] [1280x720@60]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://fl1.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="ESPNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/512px-ESPNews.svg.png" tvg-name="ESPNews [us]" group-title="Спорт плюс",ESPNews [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-logo="https://i.imgur.com/AOu4FXH.png" tvg-name="Eleven Sports 1 [pl]" group-title="Спорт плюс",Eleven Sports 1 [pl] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://9b129915.akadatel.com/iptv/83GA6FAV4DPTPQ/20068/index.m3u8
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://i.imgur.com/QPpbRcZ.png" tvg-name="Equidia [fr]" group-title="Спорт плюс",Equidia [fr] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-name="Eurosport 1 [bg]" group-title="Спорт плюс",Eurosport 1 [bg] [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://213.169.39.30:5211
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-name="Eurosport 2 [bg]" group-title="Спорт плюс",Eurosport 2 [bg] [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://213.169.39.30:5105
+#EXTINF:-1 tvg-id="FIFAPlus.uk" tvg-logo="https://i.imgur.com/l5iax42.png" tvg-name="FIFA+ [uk]" group-title="Спорт плюс",FIFA+ [uk] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="FITE247.us" tvg-logo="https://i.imgur.com/ESV6qgH.png" tvg-name="FITE 24/7 [us]" group-title="Спорт плюс",FITE 24/7 [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 tvg-id="FTV.bo" tvg-logo="https://i.imgur.com/YOr1Oac.png" tvg-name="FTV [bo]" group-title="Спорт плюс",FTV [bo] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelRacing.us" tvg-name="TVG2" group-title="Спорт плюс",FanDuel Racing [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png" tvg-name="FanDuel Sports Network [us]" group-title="Спорт плюс",FanDuel Sports Network [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://fl41.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png" tvg-name="FanDuel Sports Network [us]" group-title="Спорт плюс",FanDuel Sports Network [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelTV.us" tvg-name="TVG" group-title="Спорт плюс",FanDuel TV [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://d2jl8r92tdc3f1.cloudfront.net/out/v1/59419700344b4625b7cb0693ba265ea3/TVGindex_1.m3u8
+#EXTINF:-1 tvg-id="FightKlub.pl" tvg-logo="https://i.imgur.com/6kaNvZi.png" tvg-name="Fight Klub [pl]" group-title="Спорт плюс",Fight Klub [pl] [720x576@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://213.169.39.30:5042
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-name="FightBox [nl]" group-title="Спорт плюс",FightBox [nl] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://139.28.255.188:8080/FightBox/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" tvg-name="FightBox [nl]" group-title="Спорт плюс",FightBox [nl] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://176.116.105.82/FightBox_HD/index.m3u8
+#EXTINF:-1 tvg-id="FuboSportsNetwork.us" tvg-logo="https://i.imgur.com/qFNRJLb.png" tvg-name="Fubo Sports Network [us]" group-title="Спорт плюс",Fubo Sports Network [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://livetv-fa.tubi.video/fubo/master.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj" tvg-logo="https://i.imgur.com/RngmCDn.png" tvg-name="Futbol [tj]" group-title="Спорт плюс",Futbol [tj] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="Futbol.tj" tvg-logo="https://i.imgur.com/RngmCDn.png" tvg-name="Futbol [tj]" group-title="Спорт плюс",Futbol [tj] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://46.17.46.31:2021/channel/n4006af70/index.m3u8?q=d6d5c7126384bc888fc2fe53fdb8f77c
+#EXTINF:-1 tvg-name="Futbol [uz]" group-title="Спорт плюс",Futbol [uz] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://flussonic.salomtv.uz/FutbolTV/video.m3u8
+#EXTINF:-1 tvg-id="GEMFit.tr" tvg-logo="https://i.imgur.com/7FQxaII.png" tvg-name="GEM Fit [tr]" group-title="Спорт плюс",GEM Fit [tr] [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemfit/index-0.m3u8
+#EXTINF:-1 tvg-id="GamePlus.ca" tvg-logo="https://i.imgur.com/Lj69WbR.png" tvg-name="Game+ [ca]" group-title="Спорт плюс",Game+ [ca] [1280x720@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="GeoSuper.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" tvg-name="Geo Super [pk]" group-title="Спорт плюс",Geo Super [pk] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://116.90.120.149:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/tS7Ub7i.png" tvg-name="Glory Kickboxing [us]" group-title="Спорт плюс",Glory Kickboxing [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="Go3Sport2.ee" tvg-logo="https://i.imgur.com/ikRWy9M.png" tvg-name="TV3 Sport 2" group-title="Спорт плюс",Go3 Sport 2 [ee] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://94.232.127.28:8080/tvplaysportsplus/index.m3u8
+#EXTINF:-1 tvg-id="GolClassics.es" tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75" tvg-name="Gol Classics [es]" group-title="Спорт плюс",Gol Classics [es] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png" tvg-name="Gol Perú" group-title="Спорт плюс",Gol Peru [pe] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://38.183.182.166:8000/play/a120/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.cz" tvg-logo="https://i.postimg.cc/CxzK0w60/golfchannel.png" tvg-name="Golf Channel [cz]" group-title="Спорт плюс",Golf Channel [cz] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://176.116.105.82/GolfChannel_HD/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.pl" tvg-logo="https://i.imgur.com/vqEdhhG.png" tvg-name="Golf Channel [pl]" group-title="Спорт плюс",Golf Channel [pl] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://185.236.229.62:9981/play/a03m
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.imgur.com/Lgux6Ik.png" tvg-name="Golf Channel [us]" group-title="Спорт плюс",Golf Channel [us] [640x360@60]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://tvpass.org/live/GolfChannel/sd
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.imgur.com/Lgux6Ik.png" tvg-name="Golf Channel [us]" group-title="Спорт плюс",Golf Channel [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://fl41.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 tvg-id="HTSporTV.tr" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" tvg-name="HTSpor TV [tr]" group-title="Спорт плюс",HTSpor TV [tr] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+#EXTINF:-1 tvg-id="HardKnocks.ca" tvg-logo="https://i.imgur.com/nt9B6jx.png" tvg-name="Hard Knocks [ca]" group-title="Спорт плюс",Hard Knocks [ca] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-name="Horse & Country TV [uk]" group-title="Спорт плюс",Horse & Country TV [uk] [1280x720@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://hnc-free-viewlift.amagi.tv/playlist720_lp.m3u8
+#EXTINF:-1 tvg-id="HorseTV.it" tvg-logo="https://i.imgur.com/nK4UUX4.png" tvg-name="Horse TV [it]" group-title="Спорт плюс",Horse TV [it] [1280x720@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/320px-IRIB_TV3_LOGO.svg.png" tvg-name="شبکه ۳" group-title="Спорт плюс",IRIB 3 [ir] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/1.m3u8
+#EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-logo="https://iili.io/J1kV1Bn.png" tvg-name="InternetvDeportes" group-title="Спорт плюс",ITV Deportes [mx] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" tvg-name="Insight TV [nl]" group-title="Спорт плюс",Insight TV [nl] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InterTV.it" tvg-logo="https://i.imgur.com/FUTqh2L.png" tvg-name="Inter Channel" group-title="Спорт плюс",Inter TV [it] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-id="InterTV.it" tvg-logo="https://i.imgur.com/FUTqh2L.png" tvg-name="Inter Channel" group-title="Спорт плюс",Inter TV [it] [1024x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+#EXTINF:-1 tvg-id="JSPORTS3.jp" tvg-logo="https://i.imgur.com/xdI361E.png" tvg-name="J SPORTS 3 [jp]" group-title="Спорт плюс",J SPORTS 3 [jp] [960x544@30]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://103.197.59.108:5002/bs21.m3u8?token=guoziyun&gid=bs21&channel=zhongying
+#EXTINF:-1 tvg-id="JSPORTS4.jp" tvg-logo="https://i.imgur.com/fBcyZNL.png" tvg-name="J SPORTS 4 [jp]" group-title="Спорт плюс",J SPORTS 4 [jp] [960x544@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=7
+#EXTINF:-1 tvg-id="JOJSport.sk" tvg-logo="https://i.postimg.cc/dV1gS1N2/jojsport.png" tvg-name="JOJ Šport" group-title="Спорт плюс",JOJ Sport [sk] [1920x1080@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://176.116.105.82/JOJSport_HD/index.m3u8
+#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-logo="https://i.imgur.com/l4oX0gf.png" tvg-name="KTV Sport 2" group-title="Спорт плюс",KTV Sport Plus [kw] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KTVSport.kw" tvg-logo="https://i.imgur.com/R1hGX1d.png" tvg-name="KTV Sport [kw]" group-title="Спорт плюс",KTV Sport [kw] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="KozoomTV.fr" tvg-logo="https://i.imgur.com/M1Ee79b.png" tvg-name="Kozoom TV [fr]" group-title="Спорт плюс",Kozoom TV [fr] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/t35zhM9.png" tvg-name="LÉquipe" group-title="Спорт плюс",L'Equipe [fr] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe" tvg-logo="https://i.imgur.com/2fziU2B.png" tvg-name="L1 Max [pe]" group-title="Спорт плюс",L1 Max [pe] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://38.183.182.166:8000/play/a12t/index.m3u8
+#EXTINF:-1 tvg-id="MNetSport.mk" tvg-logo="https://i.imgur.com/7k8ar1Z.png" tvg-name="M-Net Sport [mk]" group-title="Спорт плюс",M-Net Sport [mk] [1280x720@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://ares.mnet.mk/hls/mnet-sport.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://i.imgur.com/sA5V39D.png" tvg-name="MLB Network [us]" group-title="Спорт плюс",MLB Network [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MNBSport.mn" tvg-logo="https://i.imgur.com/z854PC3.png" tvg-name="MNB Sport [mn]" group-title="Спорт плюс",MNB Sport [mn] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 tvg-id="MNBSport.mn" tvg-logo="https://i.imgur.com/z854PC3.png" tvg-name="MNB Sport [mn]" group-title="Спорт плюс",MNB Sport [mn] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://cdn4.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+#EXTINF:-1 tvg-id="MSG.us" tvg-logo="https://i.imgur.com/SEQFh0P.png" tvg-name="MSG [us]" group-title="Спорт плюс",MSG [us] [640x360@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://tvpass.org/live/msg-madison-square-gardens/sd
+#EXTINF:-1 tvg-id="MSG.us" tvg-logo="https://i.imgur.com/SEQFh0P.png" tvg-name="MSG [us]" group-title="Спорт плюс",MSG [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://fl1.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-logo="https://i.imgur.com/47X44DD.png" tvg-name="Canale 88" group-title="Спорт плюс",MadeinBO TV [it] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MaxSport1.bg" tvg-logo="https://i.imgur.com/0ohnpql.png" tvg-name="Max Sport 1 [bg]" group-title="Спорт плюс",Max Sport 1 [bg] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://213.169.39.30:5138
+#EXTINF:-1 tvg-id="MaxSport2.bg" tvg-logo="https://i.imgur.com/33m1wPN.png" tvg-name="Max Sport 2 [bg]" group-title="Спорт плюс",Max Sport 2 [bg] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://213.169.39.30:5140
+#EXTINF:-1 tvg-id="MaxSport3.bg" tvg-logo="https://i.imgur.com/eGiGgZ2.png" tvg-name="Max Sport 3 [bg]" group-title="Спорт плюс",Max Sport 3 [bg] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://213.169.39.30:5142
+#EXTINF:-1 tvg-id="MaxSport4.bg" tvg-logo="https://i.imgur.com/7IxXX6f.png" tvg-name="Max Sport 4 [bg]" group-title="Спорт плюс",Max Sport 4 [bg] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://213.169.39.30:5130
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/SuVO9T7.png" tvg-name="Monterrico TV [pe]" group-title="Спорт плюс",Monterrico TV [pe] [960x540@30]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-logo="https://i.imgur.com/SLrjImc.png" tvg-name="More Than Sports TV [de]" group-title="Спорт плюс",More Than Sports TV [de] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="Motorsporttv.fr" tvg-logo="https://i.imgur.com/qmczb2N.png" tvg-name="Motorsport.tv [fr]" group-title="Спорт плюс",Motorsport.tv [fr] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="MultivisionSports.gt" tvg-logo="https://i.imgur.com/wLjSSo2.jpg" tvg-name="Multivisión Sports" group-title="Спорт плюс",Multivision Sports [gt] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+#EXTINF:-1 tvg-id="NBCSN.us" tvg-name="NBC Sports" group-title="Спорт плюс",NBC Sports [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://i.imgur.com/MTgUVKx.png" tvg-name="NBC Sports Bay Area [us]" group-title="Спорт плюс",NBC Sports Bay Area [us] [640x360@60]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://tvpass.org/live/nbc-sports-bay-area/sd
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png" tvg-name="NBC Sports Boston [us]" group-title="Спорт плюс",NBC Sports Boston [us] [640x360@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://tvpass.org/live/nbc-sports-boston/sd
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png" tvg-name="NBC Sports Philadelphia [us]" group-title="Спорт плюс",NBC Sports Philadelphia [us] [640x360@60]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://i.postimg.cc/mg5Sw3ns/nflnetwork.png" tvg-name="NFL Network [us]" group-title="Спорт плюс",NFL Network [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-logo="https://i.imgur.com/5lPqQj5.png" tvg-name="NFL RedZone [us]" group-title="Спорт плюс",NFL RedZone [us] [640x360@60]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://tvpass.org/live/NFLRedZone/sd
+#EXTINF:-1 tvg-id="NFLSundayTicket1.us" tvg-logo="https://i.imgur.com/OhHxZrE.png" tvg-name="NFL Sunday Ticket 1 [us]" group-title="Спорт плюс",NFL Sunday Ticket 1 [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fl2.moveonjoy.com/NFL_1/index.m3u8
+#EXTINF:-1 tvg-name="NHL (Интересные моменты)" group-title="Спорт плюс",NHL (Интересные моменты) [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHLCenterIce13.us" tvg-logo="https://i.imgur.com/pBKZZ8z.png" tvg-name="NHL Center Ice 13 [us]" group-title="Спорт плюс",NHL Center Ice 13 [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fl1.moveonjoy.com/NHL_13/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce10.ca" tvg-logo="https://i.imgur.com/pBKZZ8z.png" tvg-name="NHL Centre Ice 10 [ca]" group-title="Спорт плюс",NHL Centre Ice 10 [ca] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fl1.moveonjoy.com/NHL_10/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce11.ca" tvg-logo="https://i.imgur.com/pBKZZ8z.png" tvg-name="NHL Centre Ice 11 [ca]" group-title="Спорт плюс",NHL Centre Ice 11 [ca] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fl1.moveonjoy.com/NHL_11/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce4.ca" tvg-logo="https://i.imgur.com/pBKZZ8z.png" tvg-name="NHL Centre Ice 4 [ca]" group-title="Спорт плюс",NHL Centre Ice 4 [ca] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fl1.moveonjoy.com/NHL_4/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce5.ca" tvg-logo="https://i.imgur.com/pBKZZ8z.png" tvg-name="NHL Centre Ice 5 [ca]" group-title="Спорт плюс",NHL Centre Ice 5 [ca] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fl1.moveonjoy.com/NHL_5/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce6.ca" tvg-logo="https://i.imgur.com/pBKZZ8z.png" tvg-name="NHL Centre Ice 6 [ca]" group-title="Спорт плюс",NHL Centre Ice 6 [ca] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fl1.moveonjoy.com/NHL_6/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce7.ca" tvg-logo="https://i.imgur.com/pBKZZ8z.png" tvg-name="NHL Centre Ice 7 [ca]" group-title="Спорт плюс",NHL Centre Ice 7 [ca] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fl1.moveonjoy.com/NHL_7/index.m3u8
+#EXTINF:-1 tvg-id="NHLCentreIce8.ca" tvg-logo="https://i.imgur.com/pBKZZ8z.png" tvg-name="NHL Centre Ice 8 [ca]" group-title="Спорт плюс",NHL Centre Ice 8 [ca] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fl1.moveonjoy.com/NHL_8/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" tvg-name="NHL Network [us]" group-title="Спорт плюс",NHL Network [us] [1920x1080@29]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/sdrInShRQS9x5YiUPtbU1Q/1763201469/7a485ef5da9fe50ba939f36ca3e6ed96/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="NHRATV.us" tvg-logo="https://i.imgur.com/jZgcm4k.png" tvg-name="NHRA TV [us]" group-title="Спорт плюс",NHRA TV [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://livetv-fa.tubi.video/nhra/nh.m3u8
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png" tvg-name="Nautical Channel [it]" group-title="Спорт плюс",Nautical Channel [it] [1280x720@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="NauticalChannel.it" tvg-logo="https://i.imgur.com/2ByDyzL.png" tvg-name="Nautical Channel [it]" group-title="Спорт плюс",Nautical Channel [it] [1280x720@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+#EXTINF:-1 tvg-id="NitroCircus.us" tvg-name="Nitro Circus [us]" group-title="Спорт плюс",Nitro Circus [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaSport1.cz" tvg-logo="https://i.imgur.com/w8k0Lbg.png" tvg-name="Nova Sport" group-title="Спорт плюс",Nova Sport 1 [cz] [1920x1080@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://176.116.105.82/Nova_Sport1_HD/index.m3u8
+#EXTINF:-1 tvg-id="NovaSport2.cz" tvg-logo="https://i.imgur.com/Xdc5JTE.png" tvg-name="Nova Sport 2 [cz]" group-title="Спорт плюс",Nova Sport 2 [cz] [1920x1080@50]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://176.116.105.82/NovaSport2_HD/index.m3u8
+#EXTINF:-1 tvg-id="NovaSport3.cz" tvg-logo="https://i.imgur.com/mgPc3X6.png" tvg-name="Nova Sport 3 [cz]" group-title="Спорт плюс",Nova Sport 3 [cz] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://176.116.105.82/NovaSport3_HD/index.m3u8
+#EXTINF:-1 tvg-id="NovaSport4.cz" tvg-logo="https://i.imgur.com/R14S6El.png" tvg-name="Nova Sport 4 [cz]" group-title="Спорт плюс",Nova Sport 4 [cz] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://176.116.105.82/NovaSport4_HD/index.m3u8
+#EXTINF:-1 tvg-name="Nova Sport 5 [cz]" group-title="Спорт плюс",Nova Sport 5 [cz] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://176.116.105.82/NovaSport5_HD/index.m3u8
+#EXTINF:-1 tvg-id="NovaSport.bg" tvg-logo="https://i.imgur.com/bQvS1E8.png" tvg-name="Нова Спорт" group-title="Спорт плюс",Nova Sport [bg] [720x576@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://213.169.39.30:5102
+#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" tvg-name="قناة عمان الرياضية" group-title="Спорт плюс",Oman Sports TV [om] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="OurVinyl" group-title="Спорт плюс",OurVinyl [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://d29rvfbwwm1vce.cloudfront.net/scheduler/scheduleMaster/459.m3u8
+#EXTINF:-1 tvg-id="PROSportInternational.my" tvg-logo="https://i.postimg.cc/7hjCP4mf/PROSport-International.png" tvg-name="PRO Sport International [my]" group-title="Спорт плюс",PRO Sport International [my] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://proshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-logo="https://i.imgur.com/736QREy.png" tvg-name="Pac-12 Insider [us]" group-title="Спорт плюс",Pac-12 Insider [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://pac12-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-logo="https://i.imgur.com/736QREy.png" tvg-name="Pac-12 Insider [us]" group-title="Спорт плюс",Pac-12 Insider [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PersianaFight.fr" tvg-logo="https://i.postimg.cc/qqz57Dkv/persiana-fight.jpg" tvg-name="Persiana Fight [fr]" group-title="Спорт плюс",Persiana Fight [fr] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaSports.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-sports-fr.png" tvg-name="Persiana Sports [fr]" group-title="Спорт плюс",Persiana Sports [fr] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-id="PokerTV.fr" tvg-logo="https://i.imgur.com/tArvcvj.png" tvg-name="Poker TV [fr]" group-title="Спорт плюс",Poker TV [fr] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-logo="https://i.postimg.cc/nLtBhdj0/polsatsportextra.png" tvg-name="Polsat Sport Extra [pl]" group-title="Спорт плюс",Polsat Sport Extra [pl] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://185.236.229.62:9981/play/a07q
+#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-logo="https://i.imgur.com/8x1FV3o.png" tvg-name="Polsat Sport Fight [pl]" group-title="Спорт плюс",Polsat Sport Fight [pl] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://185.236.229.62:9981/play/a06l
+#EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="https://i.postimg.cc/ryh1NC3w/polsatsport.png" tvg-name="Polsat Sport [pl]" group-title="Спорт плюс",Polsat Sport [pl] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://185.236.229.62:9981/play/a07n
+#EXTINF:-1 tvg-id="PremierSports1.mn" tvg-logo="https://i.imgur.com/t5qCejI.png" tvg-name="Premier Sports 1 [mn]" group-title="Спорт плюс",Premier Sports 1 [mn] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.mn" tvg-logo="https://i.imgur.com/eMNWhDq.png" tvg-name="Premier Sports 2 [mn]" group-title="Спорт плюс",Premier Sports 2 [mn] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:-1 tvg-id="PremierSports4.mn" tvg-logo="https://i.imgur.com/XHBJ7UB.png" tvg-name="Premier Sports 4 [mn]" group-title="Спорт плюс",Premier Sports 4 [mn] [1600x900@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://cdn4.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+#EXTINF:-1 tvg-id="PremierSports5.mn" tvg-logo="https://i.imgur.com/LkIe9gR.png" tvg-name="Premier Sports 5 [mn]" group-title="Спорт плюс",Premier Sports 5 [mn] [1600x900@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://cdn4.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
+#EXTINF:-1 tvg-id="QSport.kz" tvg-logo="https://i.imgur.com/xMhM7WI.png" tvg-name="Q Sport [kz]" group-title="Спорт плюс",Q Sport [kz] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://95.85.109.219:7000/play/a05u
+#EXTINF:-1 tvg-id="QazSport.kz" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" tvg-name="QazSport [kz]" group-title="Спорт плюс",QazSport [kz] [720x576@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.76.32.36:8001/qazsport
+#EXTINF:-1 tvg-id="RTASport.af" tvg-logo="https://i.imgur.com/lEXrwos.jpg" tvg-name="RTA Sport [af]" group-title="Спорт плюс",RTA Sport [af] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-logo="https://i.imgur.com/J6NKXyJ.png" tvg-name="RTSH Sport [al]" group-title="Спорт плюс",RTSH Sport [al] [960x540@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1 tvg-id="RacingAmerica.us" tvg-logo="https://i.imgur.com/Eufk8rl.png" tvg-name="Racing America [us]" group-title="Спорт плюс",Racing America [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://livetv-fa.tubi.video/racing-america/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://i.imgur.com/6PEevOM.png" tvg-name="Rai Sport 1" group-title="Спорт плюс",Rai Sport [it] [1280x720@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 tvg-id="RealMadridTVEnglish.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-name="Real Madrid TV English [es]" group-title="Спорт плюс",Real Madrid TV English [es] [720x408@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-name="Real Madrid TV [es]" group-title="Спорт плюс",Real Madrid TV [es] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://176.65.146.237:8401/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" tvg-name="Real Madrid TV [es]" group-title="Спорт плюс",Real Madrid TV [es] [720x408@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-name="Red Bull TV [at]" group-title="Спорт плюс",Red Bull TV [at] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://river-1.rutube.ru/stream/genetta-516.ost.rutube.ru/RQocVkPiv_qVa74Z_Qk0gA/1763201436/45b30eef1b89857182b03db2c25631d9/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-name="Red Bull TV [at]" group-title="Спорт плюс",Red Bull TV [at] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-name="Red Bull TV [at]" group-title="Спорт плюс",Red Bull TV [at] [960x540@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-name="Red Bull TV [at]" group-title="Спорт плюс",Red Bull TV [at] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-name="Red Bull TV [at]" group-title="Спорт плюс",Red Bull TV [at] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="RightNowTV.us" tvg-logo="https://i.imgur.com/OxbIla4.png" tvg-name="Right Now TV [us]" group-title="Спорт плюс",Right Now TV [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
+#EXTINF:-1 tvg-id="RightNowTV.us" tvg-logo="https://i.imgur.com/OxbIla4.png" tvg-name="Right Now TV [us]" group-title="Спорт плюс",Right Now TV [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RING.bg" tvg-name="Ring HD [bg]" group-title="Спорт плюс",Ring HD [bg] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://213.169.39.30:5210
+#EXTINF:-1 tvg-id="SOSKanalPlus.rs" tvg-logo="https://i.imgur.com/9SD40uH.png" tvg-name="Сос канал плус" group-title="Спорт плюс",SOS Kanal Plus [rs] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ANUZAu.png" tvg-name="Setanta Sports 1 [ge]" group-title="Спорт плюс",Setanta Sports 1 [ge] [640x360@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://94.43.1.138:8081/setanta1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ANUZAu.png" tvg-name="Setanta Sports 1 [ge]" group-title="Спорт плюс",Setanta Sports 1 [ge] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 tvg-name="Setanta Sports 2 [ge]" group-title="Спорт плюс",Setanta Sports 2 [ge] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://94.43.1.138:8081/setanta2/index.m3u8
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-logo="https://i.imgur.com/CsEElsJ.png" tvg-name="الشارقة الرياضية" group-title="Спорт плюс",Sharjah Sports [ae] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-logo="https://i.imgur.com/CsEElsJ.png" tvg-name="الشارقة الرياضية" group-title="Спорт плюс",Sharjah Sports [ae] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SolhSports.af" tvg-logo="https://www.lyngsat.com/logo/tv/ss/solhsports-af.png" tvg-name="Solh Sports [af]" group-title="Спорт плюс",Solh Sports [af] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://wo.cma.footballii.ir/hls2/solh.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-logo="https://i.imgur.com/hWo7Ba4.png" tvg-name="Sony Ten 1" group-title="Спорт плюс",Sony Sports Ten 1 [in] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.255.35.150:18926
+#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-logo="https://i.imgur.com/W96KVqu.png" tvg-name="Sony Ten 2" group-title="Спорт плюс",Sony Sports Ten 2 [in] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://87.255.35.150:18927
+#EXTINF:-1 tvg-id="SonySportsTen3.in" tvg-logo="https://i.imgur.com/vG19HxD.png" tvg-name="Sony Ten 3" group-title="Спорт плюс",Sony Sports Ten 3 [in] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.255.35.150:18848
+#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-logo="https://i.imgur.com/40BbQUd.png" tvg-name="Sony Six" group-title="Спорт плюс",Sony Sports Ten 5 [in] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.255.35.150:18818
+#EXTINF:-1 tvg-id="KQROLD6.us" tvg-name="Speed Sport 1" group-title="Спорт плюс",Speed Sport 1 [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-logo="https://i.imgur.com/X5X3tKC.png" tvg-name="Sport 1 [cz]" group-title="Спорт плюс",Sport 1 [cz] [1920x1080@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://176.116.105.82/Sport1_HD/index.m3u8
+#EXTINF:-1 tvg-id="Sport2.cz" tvg-logo="https://i.postimg.cc/FFncwbvC/sport2.png" tvg-name="Sport 2 [cz]" group-title="Спорт плюс",Sport 2 [cz] [1920x1080@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://176.116.105.82/Sport2_HD/index.m3u8
+#EXTINF:-1 tvg-id="SportKlub.pl" tvg-logo="https://i.imgur.com/DpJUrlr.png" tvg-name="Sport Klub [pl]" group-title="Спорт плюс",Sport Klub [pl] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://185.236.229.62:9981/play/a02k
+#EXTINF:-1 tvg-id="Sport.sk" tvg-logo="https://i.imgur.com/oAtcxNZ.png" tvg-name="Šport" group-title="Спорт плюс",Sport [sk] [1920x1080@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport.sk" tvg-logo="https://i.imgur.com/oAtcxNZ.png" tvg-name="Šport" group-title="Спорт плюс",Sport [sk] [1920x1080@50]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" tvg-name="Sports TV [tr]" group-title="Спорт плюс",Sports TV [tr] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-name="SportsGrid" group-title="Спорт плюс",SportsGrid [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://river-1.rutube.ru/stream/genetta-512.ost.rutube.ru/gjx3jDjsFFKXT-n7Dh1mdw/1763201479/afc3073ec3efc6cb70c88ce6acaf4344/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://i.imgur.com/ulGKX30.png" tvg-name="SportsGrid [us]" group-title="Спорт плюс",SportsGrid [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://i.imgur.com/ulGKX30.png" tvg-name="SportsGrid [us]" group-title="Спорт плюс",SportsGrid [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-logo="https://i.imgur.com/ulGKX30.png" tvg-name="SportsGrid [us]" group-title="Спорт плюс",SportsGrid [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsmanChannel.us" tvg-logo="https://i.imgur.com/CXauv8M.png" tvg-name="Sportsman Channel [us]" group-title="Спорт плюс",Sportsman Channel [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png" tvg-name="Stadium [us]" group-title="Спорт плюс",Stadium [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playlist.m3u8
+#EXTINF:-1 tvg-id="StarSports1Tamil.in" tvg-logo="https://i.imgur.com/dfLSnsZ.png" tvg-name="Star Sports 4" group-title="Спорт плюс",Star Sports 1 Tamil [in] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://87.255.35.150:18844
+#EXTINF:-1 tvg-id="StarSports1Telugu.in" tvg-logo="https://i.imgur.com/gK415D7.png" tvg-name="Star Sports 1 Telugu [in]" group-title="Спорт плюс",Star Sports 1 Telugu [in] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.255.35.150:18881
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-logo="https://i.imgur.com/E5jjKHI.png" tvg-name="Star Sports" group-title="Спорт плюс",Star Sports 1 [in] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-logo="https://i.imgur.com/5En7pOI.png" tvg-name="Star Sports 2 [in]" group-title="Спорт плюс",Star Sports 2 [in] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://87.255.35.150:18828
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-logo="https://i.imgur.com/dbp2Mig.png" tvg-name="Star Sports 3 [in]" group-title="Спорт плюс",Star Sports 3 [in] [704x576@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://87.255.35.150:18804
+#EXTINF:-1 tvg-id="Strongman.us" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-name="Strongman [us]" group-title="Спорт плюс",Strongman [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Strongman.us" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-name="Strongman [us]" group-title="Спорт плюс",Strongman [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Strongman.us" tvg-logo="https://i.imgur.com/bVQBF6R.png" tvg-name="Strongman [us]" group-title="Спорт плюс",Strongman [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://cb4748b76e2c4b11bb5790666256964b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_StrongmanChampionsLeague/playlist.m3u8
+#EXTINF:-1 tvg-name="Super Slow Motion" group-title="Спорт плюс",Super Slow Motion [640x360@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://fl1001.bozztv.com/ushba94/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://i.postimg.cc/hvFrW9Wd/supertennis.png" tvg-name="SuperTennis [it]" group-title="Спорт плюс",SuperTennis [it] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-id="SwerveSports.us" tvg-logo="https://i.imgur.com/GT0Yi2T.png" tvg-name="Swerve Sports [us]" group-title="Спорт плюс",Swerve Sports [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TSports7.th" tvg-logo="https://i.imgur.com/KyI0s5n.png" tvg-name="T Sports Channel" group-title="Спорт плюс",T Sports 7 [th] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
+#EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" tvg-name="澳門體育頻道" group-title="Спорт плюс",TDM Sports [mo] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-name="TJK TV [tr]" group-title="Спорт плюс",TJK TV [tr] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-id="TRSport.it" tvg-logo="https://i.imgur.com/ELXmaqg.png" tvg-name="TR Sport [it]" group-title="Спорт плюс",TR Sport [it] [854x480@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TSNTheOcho.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" tvg-name="TSN The Ocho [ca]" group-title="Спорт плюс",TSN The Ocho [ca] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" tvg-name="TSN1 [ca]" group-title="Спорт плюс",TSN1 [ca] [640x360@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/eRFE0jZ.png" tvg-name="TSN1 [ca]" group-title="Спорт плюс",TSN1 [ca] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://fl1.moveonjoy.com/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" tvg-name="TSN2 [ca]" group-title="Спорт плюс",TSN2 [ca] [640x360@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/512px-TSN2.svg.png" tvg-name="TSN2 [ca]" group-title="Спорт плюс",TSN2 [ca] [960x540@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://fl1.moveonjoy.com/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/AYza8KO.png" tvg-name="TSN3 [ca]" group-title="Спорт плюс",TSN3 [ca] [640x360@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/AYza8KO.png" tvg-name="TSN3 [ca]" group-title="Спорт плюс",TSN3 [ca] [960x540@60]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://fl1.moveonjoy.com/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/qJyAWU8.png" tvg-name="TSN4 [ca]" group-title="Спорт плюс",TSN4 [ca] [640x360@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/qJyAWU8.png" tvg-name="TSN4 [ca]" group-title="Спорт плюс",TSN4 [ca] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://fl1.moveonjoy.com/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" tvg-name="TSN5 [ca]" group-title="Спорт плюс",TSN5 [ca] [640x360@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/HEzHpzz.png" tvg-name="TSN5 [ca]" group-title="Спорт плюс",TSN5 [ca] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://fl1.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="TVSBowlingNetwork.us" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" tvg-name="TVS Bowling Network [us]" group-title="Спорт плюс",TVS Bowling Network [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-logo="https://i.imgur.com/30ZoF75.png" tvg-name="TVS Boxing [us]" group-title="Спорт плюс",TVS Boxing [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-logo="https://i.imgur.com/auR0Mi6.png" tvg-name="TVS Classic Sports [us]" group-title="Спорт плюс",TVS Classic Sports [us] [352x264@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-name="TVS Sports Bureau [us]" group-title="Спорт плюс",TVS Sports Bureau [us] [1280x720@24]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us" tvg-logo="https://i.imgur.com/Lwwq62E.png" tvg-name="TVS Sports [us]" group-title="Спорт плюс",TVS Sports [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-logo="https://i.imgur.com/7zYIbU1.png" tvg-name="TVS Turbo [us]" group-title="Спорт плюс",TVS Turbo [us] [480x360@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rpn.bozztv.com/gusa/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-logo="https://i.imgur.com/8hC4PfF.png" tvg-name="TVS Women Sports [us]" group-title="Спорт плюс",TVS Women Sports [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" tvg-name="Teledeporte [es]" group-title="Спорт плюс",Teledeporte [es] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-logo="https://i.imgur.com/NoJvlig.png" tvg-name="Teletrak TV [cl]" group-title="Спорт плюс",Teletrak TV [cl] [1280x720@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TelewebionSport2.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png/240px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png" tvg-name="Telewebion Sport 2 [ir]" group-title="Спорт плюс",Telewebion Sport 2 [ir] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="TelewebionSport3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png/240px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png" tvg-name="Telewebion Sport 3 [ir]" group-title="Спорт плюс",Telewebion Sport 3 [ir] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="TelewebionSport3.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png/240px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png" tvg-name="Telewebion Sport 3 [ir]" group-title="Спорт плюс",Telewebion Sport 3 [ir] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="TelewebionSport.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png/240px-%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%84%D9%88%D8%A8%DB%8C%D9%88%D9%86_%D9%88%D8%B1%D8%B2%D8%B4%DB%8C_%DB%B1.png" tvg-name="Telewebion Sport [ir]" group-title="Спорт плюс",Telewebion Sport [ir] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/1080p/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" tvg-name="Tennis Channel [us]" group-title="Спорт плюс",Tennis Channel [us] [1280x720@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis+" group-title="Спорт плюс",Tennis+ [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-name="Trace Sport Stars [fr]" group-title="Спорт плюс",Trace Sport Stars [fr] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" tvg-name="Trace Sport Stars [fr]" group-title="Спорт плюс",Trace Sport Stars [fr] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://i.imgur.com/n6vITLu.png" tvg-name="Türkmenistan Sport" group-title="Спорт плюс",Turkmenistan Sport [tm] [400x226@24]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+http://alpha.tv.online.tm/hls/ch004_400/index.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://i.imgur.com/n6vITLu.png" tvg-name="Türkmenistan Sport" group-title="Спорт плюс",Turkmenistan Sport [tm] [720x406@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-logo="https://i.imgur.com/n6vITLu.png" tvg-name="Türkmenistan Sport" group-title="Спорт плюс",Turkmenistan Sport [tm] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://95.85.109.219:7000/play/a00e
+#EXTINF:-1 tvg-name="UFC NETWORK  [us]" group-title="Спорт плюс",UFC NETWORK  [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+http://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Ultimate Fighting Championship" group-title="Спорт плюс",Ultimate Fighting Championship [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" tvg-name="Unbeaten [us]" group-title="Спорт плюс",Unbeaten [us] [1920x1080@29]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://river-1.rutube.ru/stream/genetta-504.ost.rutube.ru/828HjT64f1RuFHj332v5gA/1763201490/efc2833169ec20a3ea61197714bea6ab/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" tvg-name="Unbeaten [us]" group-title="Спорт плюс",Unbeaten [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="VitalBasketball.ru" tvg-logo="https://i.imgur.com/E67CY0d.png" tvg-name="VITAL Basketball" group-title="Спорт плюс",VITAL Basketball [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://vslive.pw/stream/48684/index.m3u8
+#EXTINF:-1 tvg-id="VitalFootball.ru" tvg-logo="https://i.imgur.com/wXf8nNf.png" tvg-name="VITAL Football" group-title="Спорт плюс",VITAL Football [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://vslive.pw/stream/48682/index.m3u8
+#EXTINF:-1 tvg-id="VitalPlus.ru" tvg-logo="https://i.imgur.com/7NTLpDt.png" tvg-name="VITAL Plus" group-title="Спорт плюс",VITAL Plus [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://vslive.pw/stream/48683/index.m3u8
+#EXTINF:-1 tvg-id="VitalSport.ru" tvg-logo="https://i.imgur.com/2Kinxqb.png" tvg-name="VITAL Sport" group-title="Спорт плюс",VITAL Sport [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://vslive.pw/stream/48527/index.m3u8
+#EXTINF:-1 tvg-id="VitalTennis.ru" tvg-logo="https://i.imgur.com/RoCOuhJ.png" tvg-name="VITAL Tennis" group-title="Спорт плюс",VITAL Tennis [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://vslive.pw/stream/48685/index.m3u8
+#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/240px-Iribvarzesh2022.png" tvg-name="Varzesh TV [ir]" group-title="Спорт плюс",Varzesh TV [ir] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-name="World Poker Tour [us]" group-title="Спорт плюс",World Poker Tour [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-name="World Poker Tour [us]" group-title="Спорт плюс",World Poker Tour [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 14)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-logo="https://i.imgur.com/lta5Mog.png" tvg-name="World of Freesports [de]" group-title="Спорт плюс",World of Freesports [de] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="XSport.ua" tvg-logo="https://i.imgur.com/CHDcfrT.png" tvg-name="Хоккей" group-title="Спорт плюс",XSport [ua] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://176.116.105.82/XSPORT_HD/index.m3u8
+#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-logo="https://i.postimg.cc/15sS0myr/ziggosport.png" tvg-name="Ziggo Sport 1" group-title="Спорт плюс",Ziggo Sport [nl] [720x576@25]
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://195.64.140.147:10116/116
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" tvg-name="beIN SPORTS XTRA [us]" group-title="Спорт плюс",beIN SPORTS XTRA [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" tvg-name="beIN SPORTS XTRA en Español" group-title="Спорт плюс",beIN SPORTS XTRA en Espanol [us] [1920x1080@29]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://river-1.rutube.ru/stream/genetta-511.ost.rutube.ru/LP1aY7XegS0fc2pbFYIbwA/1763201455/05550e441b09aeec53e60de66b6c47bf/1080p_stream.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" tvg-name="beIN SPORTS XTRA en Español" group-title="Спорт плюс",beIN SPORTS XTRA en Espanol [us] [1920x1080@30]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" tvg-name="beIN Sports Haber [tr]" group-title="Спорт плюс",beIN Sports Haber [tr] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 4.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 TV Safari/537.36
+https://162.212.179.32/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" tvg-name="beIN Sports Haber [tr]" group-title="Спорт плюс",beIN Sports Haber [tr] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://162.212.179.31/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/QWo0x7S.jpg" tvg-name="beIN Sports Haber [tr]" group-title="Спорт плюс",beIN Sports Haber [tr] [1920x1080@25]
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://208.79.153.150/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bein_Sports_Logo.svg/512px-Bein_Sports_Logo.svg.png" tvg-name="beIN Sports USA [us]" group-title="Спорт плюс",beIN Sports USA [us] [1280x720@30]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-logo="https://i.postimg.cc/G2n8bztd/talksport.png" tvg-name="talkSPORT [uk]" group-title="Спорт плюс",talkSPORT [uk] [1920x1080@25]
 
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт", Наш спорт 1
 http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8
